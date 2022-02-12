@@ -2,9 +2,9 @@
   icon: fa-star
   nickname: disk_search
 
-- taxonomy: 常用推荐
-  icon: fa-star
-  nickname: common_use
+#- taxonomy: 常用推荐
+#  icon: fa-star
+#  nickname: common_use
 
 - taxonomy: 影视相关
   icon: fa-file-video-o
@@ -29,3 +29,15 @@
 - taxonomy: 音乐相关
   icon: fa-music
   nickname: music
+
+- taxonomy: 书籍相关
+  icon: fa-book
+  nickname: book
+
+- taxonomy: 漫画相关
+  icon: fa-book
+  nickname: anime
+
+- taxonomy: 图片相关
+  icon: fa-picture-o
+  nickname: image
