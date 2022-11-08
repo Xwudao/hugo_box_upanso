@@ -1,55 +1,3098 @@
 - taxonomy: 网盘搜索
   icon: fa-star
   nickname: disk_search
-
-#- taxonomy: 常用推荐
-#  icon: fa-star
-#  nickname: common_use
-
+  links:
+  - title: 奈斯搜索
+    logo: https://api2.misiai.com/favicon/v1?url=niceso.fun&size=180
+    url: https://www.niceso.fun/?utm_source=iMyShare&utm_medium=Nav
+    description: "\U0001F525\U0001F525\U0001F525阿里云盘资源搜索引擎"
+  - title: 优聚搜
+    logo: https://api2.misiai.com/favicon/v1?url=v3.ujuso.com&size=180
+    url: https://v3.ujuso.com/
+    description: 新上线的一款百度网盘资源搜索网站，资源都还比较新，比较全，搜索体验目前还算可以
+  - title: 大力盘搜索
+    logo: https://api2.misiai.com/favicon/v1?url=dalipan.com&size=180
+    url: https://dalipan.com/
+    description: 百度网盘资源搜索引擎
+  - title: 阿里盘搜
+    logo: https://api2.misiai.com/favicon/v1?url=alipanso.com&size=180
+    url: https://www.alipanso.com/
+    description: 阿里云盘资源搜索引擎
+  - title: 飞飞盘
+    logo: https://api2.misiai.com/favicon/v1?url=feifeipan.com&size=180
+    url: https://www.feifeipan.com/
+    description: 网盘资源搜索引擎
+  - title: Telegram中文搜索
+    logo: https://api2.misiai.com/favicon/v1?url=sssoou.com&size=180
+    url: http://www.sssoou.com/
+    description: Telegram频道搜索，帮助大家搜Telegram频道里的资源
+  - title: 小马盘搜索
+    logo: https://api2.misiai.com/favicon/v1?url=xiaomapan.com&size=180
+    url: https://www.xiaomapan.com/
+    description: 免费的网盘搜索引擎，搜索的时候注意精简关键词
+  - title: 酷搜
+    logo: https://api2.misiai.com/favicon/v1?url=kolsou.com&size=180
+    url: https://www.kolsou.com/
+    description: 各类学习教程资源搜索，考研、考公、教师资格证、编程、高中初中等等
+  - title: 罗马盘
+    logo: https://api2.misiai.com/favicon/v1?url=luomapan.com&size=180
+    url: https://www.luomapan.com/
+    description: 资源搜索神器，先搜索后收费（价格不贵）
+  - title: 各种VIP
+    logo: https://api2.misiai.com/favicon/v1?url=gezhong.vip&size=180
+    url: https://gezhong.vip/
+    description: Google网盘资源搜索引擎
+  - title: 搜盘器app
+    logo: https://api2.misiai.com/favicon/v1?url=dnnh.lanzouo.com&size=180
+    url: https://dnnh.lanzouo.com/igDIGyo8zne
+    description: 一款云盘资源搜索app，内置多个网盘资源搜索引擎，可搜索蓝奏云盘，阿里云盘，百度网盘的资源
+  - title: 简洁云盘搜索Tools
+    logo: https://api2.misiai.com/favicon/v1?url=wwi.lanzouy.com&size=180
+    url: https://wwi.lanzouy.com/b0116e7ni
+    description: 提取码：8rxm，一款Windows云盘搜索工具软件，可搜索蓝奏云盘，阿里云盘，百度网盘的资源
+  - title: ONE TOOL
+    logo: https://api2.misiai.com/favicon/v1?url=zijieyunpan.com&size=180
+    url: https://zijieyunpan.com/rFci2TKt6Pu
+    description: 一款影视、动漫、直播、外剧、阅读、小说、漫画、美图资源聚合app
+  - title: 资源大师
+    logo: https://api2.misiai.com/favicon/v1?url=dmla.lanzoui.com&size=180
+    url: https://dmla.lanzoui.com/b05nh0vob
+    description: 一款支持搜索下载磁力资源、影视资源、音乐、网盘资源、软件的app，所有资源一款app全搞定！
+  - title: 熊崩
+    logo: https://api2.misiai.com/favicon/v1?url=xiongbeng.com&size=180
+    url: https://www.xiongbeng.com/
+    description: 一个不错的蓝奏网盘搜索引擎，偏向于搜索软件、文档等等
+  - title: 点点文档
+    logo: https://api2.misiai.com/favicon/v1?url=torrent.org.cn&size=180
+    url: https://www.torrent.org.cn/bd
+    description: 在线的文档搜索工具。专注于文档搜索
+  - title: 小蛇搜搜
+    logo: https://api2.misiai.com/favicon/v1?url=xiaoshesoso.com&size=180
+    url: https://xiaoshesoso.com/
+    description: 电影、电视、动漫、书籍综合搜索，还可以搜博客和网页
+  - title: 蓝奏云资源搜索
+    logo: https://api2.misiai.com/favicon/v1?url=sixyin.com&size=180
+    url: https://www.sixyin.com/disk-search
+    description: 网页版的蓝奏云资源搜索引擎
+  - title: 蓝搜
+    logo: https://api2.misiai.com/favicon/v1?url=i3zh.lanzoux.com&size=180
+    url: https://i3zh.lanzoux.com/ij6l3o50w9a
+    description: 一款蓝奏云资源搜索神器，pj软件资源居多
+  - title: 蓝瘦
+    logo: https://api2.misiai.com/favicon/v1?url=lanzoux.com&size=180
+    url: https://lanzoux.com/iE1Uagjujod
+    description: 蓝奏云网盘资源搜索Android App
+  - title: AnyPaper
+    logo: https://api2.misiai.com/favicon/v1?url=ifish.fun&size=180
+    url: https://ifish.fun/paper/search
+    description: 学术搜索神器，论文搜索终结者，科学研究好助手
+  - title: 库问搜索
+    logo: https://api2.misiai.com/favicon/v1?url=koovin.com&size=180
+    url: http://www.koovin.com/
+    description: 免费的学术文档、文献搜索下载网站
+  - title: iData
+    logo: https://api2.misiai.com/favicon/v1?url=cn&size=180
+    url: https://www.cn-ki.net/
+    description: 免费下载学术文献，免费论文下载（每日免费1 - 2篇）
+  - title: F搜
+    logo: https://api2.misiai.com/favicon/v1?url=fsou.cc&size=180
+    url: https://fsou.cc/
+    description: 一个聚合搜索引擎，或许有超出百度、搜狗以外的搜索体验
+  - title: searX
+    logo: https://api2.misiai.com/favicon/v1?url=searx.bar&size=180
+    url: https://searx.bar/
+    description: 一款还不错的综合型搜索引擎
+  - title: Searx.space
+    logo: https://api2.misiai.com/favicon/v1?url=searx.space&size=180
+    url: https://searx.space/
+    description: 里面收录了目前基于「Searx」开源项目搭建的搜索引擎网站，保留隐私的好用搜索引擎都在这里了
+  - title: 酷搜
+    logo: https://api2.misiai.com/favicon/v1?url=xuesousou.com&size=180
+    url: https://www.xuesousou.com/
+    description: 酷搜-考研、考级、考证、IT教程-学习资料搜索引擎
+  - title: 优聚搜
+    logo: https://api2.misiai.com/favicon/v1?url=jujuso.com&size=180
+    url: https://jujuso.com/
+    description: 致敬曾经的@pandownload.com
+  - title: UP云搜
+    logo: https://api2.misiai.com/favicon/v1?url=upyunso.com&size=180
+    url: https://www.upyunso.com/
+    description: 每日实时不间断更新资源内容，已收录资源2000w+
+  - title: 橘子盘搜(影视)
+    logo: https://api2.misiai.com/favicon/v1?url=nmme.cc&size=180
+    url: https://www.nmme.cc/
+    description: 目前仅支持影视搜索，有百度云、阿里云、迅雷等网盘资源
+  - title: 奈斯搜索
+    logo: https://api2.misiai.com/favicon/v1?url=niceso.fun&size=180
+    url: https://www.niceso.fun/
+    description: 资源超丰富的阿里云盘资源搜索网站
+  - title: 盘他一下
+    logo: https://api2.misiai.com/favicon/v1?url=panother.com&size=180
+    url: https://panother.com/
+    description: 目前支持了百度网盘、阿里云...
+  - title: 飞鱼盘搜
+    logo: https://api2.misiai.com/favicon/v1?url=feiyu100.cn&size=180
+    url: https://feiyu100.cn/
+    description: 质量不错的百度云搜索站，链接比较新
+  - title: 乌鸦搜
+    logo: https://api2.misiai.com/favicon/v1?url=wuyasou.com&size=180
+    url: https://www.wuyasou.com
+    description: 专注网盘的搜索引擎！
+  - title: 猪猪盘
+    logo: https://api2.misiai.com/favicon/v1?url=zhuzhupan.com&size=180
+    url: http://www.zhuzhupan.com/
+    description: 多线路索引百度云资源
+  - title: 飞猪盘
+    logo: https://api2.misiai.com/favicon/v1?url=feizhupan.com&size=180
+    url: https://www.feizhupan.com/
+    description: 更新最及时的百度网盘搜索神器
+  - title: 凌风云搜索
+    logo: https://api2.misiai.com/favicon/v1?url=lingfengyun.com&size=180
+    url: https://www.lingfengyun.com/
+    description: 收费搜索，质量不错，资源很多，需要的可以自行测试。
+  - title: 毕方铺
+    logo: https://api2.misiai.com/favicon/v1?url=iizhi.cn&size=180
+    url: https://www.iizhi.cn
+    description: 更新及时、简洁的百度网盘资源搜索网盘
+  - title: 小鸟搜索
+    logo: https://api2.misiai.com/favicon/v1?url=birdiesearch.com&size=180
+    url: https://www.birdiesearch.com/
+    description: 原爱搜资源助手，现改名为小鸟搜索，注册需购买5元邀请码，每最多免费搜索13次，搜索结果质量高。
+  - title: 小白盘
+    logo: https://api2.misiai.com/favicon/v1?url=xiaobaipan.com&size=180
+    url: https://www.xiaobaipan.com/
+    description: 小白盘帮收录了大量的百度网盘资源,页面清新，实时检查失效资源.帮您省心快速找到想要的电影,电视剧,小说,文档,音乐,软件,种子等热门网盘资源
 - taxonomy: 影视相关
   icon: fa-file-video-o
   nickname: video
-
+  links:
+  - title: 观影小零食
+    logo: https://api2.misiai.com/favicon/v1?url=buy.yhm11.com&size=180
+    url: http://buy.yhm11.com/index.php?r=/l&sort=0&cids=6
+    description: 观影小零食
+  - title: NO视频
+    logo: https://api2.misiai.com/favicon/v1?url=novipnoad.com&size=180
+    url: https://www.novipnoad.com/
+    description: 不负追剧好时光
+  - title: XijingTv
+    logo: https://api2.misiai.com/favicon/v1?url=xijing.tv&size=180
+    url: http://xijing.tv/
+    description: 美剧，片源多又快
+  - title: 蛋蛋赞影院
+    logo: https://api2.misiai.com/favicon/v1?url=dandanzan.top&size=180
+    url: https://www.dandanzan.top/
+    description: 蛋蛋赞影院
+  - title: 1090影视
+    logo: https://api2.misiai.com/favicon/v1?url=1090ys8.com&size=180
+    url: http://1090ys8.com/
+    description: 1090影视
+  - title: 奈菲影视
+    logo: https://api2.misiai.com/favicon/v1?url=nfmovies.com&size=180
+    url: https://www.nfmovies.com/
+    description: 高清影视
+  - title: 真不卡影院
+    logo: https://api2.misiai.com/favicon/v1?url=zhenbuka3.com&size=180
+    url: http://www.zhenbuka3.com/
+    description: 在线电影
+  - title: TVB云播
+    logo: https://api2.misiai.com/favicon/v1?url=tvyb02.com&size=180
+    url: http://www.tvyb02.com/
+    description: TVB电视剧在线播放
+  - title: AGE动漫
+    logo: https://api2.misiai.com/favicon/v1?url=agemys.com&size=180
+    url: https://www.agemys.com/
+    description: AGE动漫备用：http://www.age.tv/
+  - title: 片吧
+    logo: https://api2.misiai.com/favicon/v1?url=pianba.tv&size=180
+    url: https://www.pianba.tv/
+    description: 片吧影院
+  - title: 看看屋
+    logo: https://api2.misiai.com/favicon/v1?url=kankanwu.com&size=180
+    url: https://www.kankanwu.com/
+    description: 看看屋
+  - title: 片库BTNull
+    logo: https://api2.misiai.com/favicon/v1?url=btnull.re&size=180
+    url: https://www.btnull.re/
+    description: 片库原“片库”
+  - title: 在线之家
+    logo: https://api2.misiai.com/favicon/v1?url=zxzj.fun&size=180
+    url: https://www.zxzj.fun/
+    description: 在线之家
+  - title: 神马影院
+    logo: https://api2.misiai.com/favicon/v1?url=shenma4480.com&size=180
+    url: https://www.shenma4480.com/
+    description: 神马影院
+  - title: 两个BT
+    logo: https://api2.misiai.com/favicon/v1?url=bttwo.com&size=180
+    url: https://www.bttwo.com/
+    description: 两个BT免费为网友提交BT种子下载注意部分影片有收费，可选择其他网站观看
+  - title: 一起看-虎牙
+    logo: https://api2.misiai.com/favicon/v1?url=huya.com&size=180
+    url: https://www.huya.com/g/seeTogether
+    description: 一起看-虎牙
+  - title: 腾讯6000部免费
+    logo: https://api2.misiai.com/favicon/v1?url=v.qq.com&size=180
+    url: https://v.qq.com/movie/p/topic/allforfree/index.html
+    description: 腾讯视频免费看
+  - title: 爱奇艺免费看
+    logo: https://api2.misiai.com/favicon/v1?url=iqiyi.com&size=180
+    url: https://www.iqiyi.com/kszt/freefilm.html
+    description: 免费大片刷不停
+  - title: 芒果TV免费看
+    logo: https://api2.misiai.com/favicon/v1?url=mgtv.com&size=180
+    url: https://www.mgtv.com/t/3-4994.html
+    description: 免费大片打包看
+  - title: 赞助会员可浏览
+    logo: https://api2.misiai.com/favicon/v1?url=misiai.com&size=180
+    url: ""
+    description: Mp4Ba的资源提取码：efdi
+  - title: 全能VIP视频在线解析
+    logo: https://api2.misiai.com/favicon/v1?url=whg6.com&size=180
+    url: https://www.whg6.com/html/video/
+    description: 腾讯、爱奇艺、优酷等平台的VIP视频解析，支持在线看蓝光VIP视频，可配合IDM下载
+  - title: 电影狗
+    logo: https://api2.misiai.com/favicon/v1?url=dianyinggou.com&size=180
+    url: http://www.dianyinggou.com/
+    description: 电影、电视剧、动漫等聚合搜索
+  - title: 橘子盘搜
+    logo: https://api2.misiai.com/favicon/v1?url=nmme.cc&size=180
+    url: https://www.nmme.cc/
+    description: 一个专注于影视网盘资源搜索引擎，可搜索百度网盘、阿里云盘等网盘的影视资源
+  - title: 未知搜索
+    logo: https://api2.misiai.com/favicon/v1?url=xsear.ch&size=180
+    url: https://xsear.ch/
+    description: 一款影视资源聚合搜索引擎，支持搜索可在线播放的动漫、电影、电视剧等等
+  - title: MVCAT
+    logo: https://api2.misiai.com/favicon/v1?url=mvcat.com&size=180
+    url: http://www.mvcat.com/
+    description: 电影推荐平台，推荐经典、好看的电影，支持播放和下载
+  - title: 随便看看
+    logo: https://api2.misiai.com/favicon/v1?url=sbkk.me&size=180
+    url: https://www.sbkk.me/
+    description: ⎛⎝随便看看⎠⎞ – 高分电影推荐,看图猜电影,GIF动态图分享平台
+  - title: 人人影视整站资源
+    logo: https://api2.misiai.com/favicon/v1?url=v.dsb.ink&size=180
+    url: https://v.dsb.ink/
+    description: 人人影视凉了，但是热心网友在倒闭前，爬取了整站资源，供大家下载！
+  - title: BT之家（Btbtt）
+    logo: https://api2.misiai.com/favicon/v1?url=btbtt.me&size=180
+    url: https://www.btbtt.me/
+    description: 老牌的BT资源网站（请开广告拦截插件进入网站）
+  - title: 555电影
+    logo: https://api2.misiai.com/favicon/v1?url=555dy1.com&size=180
+    url: https://www.555dy1.com/
+    description: 最新热门电影,独播点播电视剧,番剧,美剧,国漫,综艺等,免费在线观看
+  - title: 低端影视
+    logo: https://api2.misiai.com/favicon/v1?url=ddrk.me&size=180
+    url: https://ddrk.me/
+    description: 画质超棒的免费在线看电影、电视剧网站
+  - title: 完美看看(暂时闭站)
+    logo: https://api2.misiai.com/favicon/v1?url=wanmeikk.me&size=180
+    url: https://www.wanmeikk.me/
+    description: 免费在线看高清视频，可配合IDM进行视频下载！
+  - title: BT部落天堂
+    logo: https://api2.misiai.com/favicon/v1?url=btbuluo.net&size=180
+    url: http://www.btbuluo.net/
+    description: 注重体验与质量的影视资源下载网站
+  - title: N7F6
+    logo: https://api2.misiai.com/favicon/v1?url=n7f6.cn&size=180
+    url: http://n7f6.cn/
+    description: 一个以迅雷网盘、百度网盘等分享资源的影视分享站
+  - title: 大师兄影视
+    logo: https://api2.misiai.com/favicon/v1?url=tv.ci&size=180
+    url: https://tv.ci/
+    description: 免费VIP影视在线观看的平台,拥有海量、优质、高清电影和好看的电视剧,清晰画质在线动漫等
+  - title: 注视
+    logo: https://api2.misiai.com/favicon/v1?url=gaze.run&size=180
+    url: http://gaze.run/
+    description: 一个简洁的在线影视网站，电影电视剧清晰度都很高，播放流畅
+  - title: 94神马电影网
+    logo: https://api2.misiai.com/favicon/v1?url=9rmb.com&size=180
+    url: http://www.9rmb.com/
+    description: 在线影视网站（有最新的SH资源），虽然界面看起来老，但是视频质量和播放速度没毛病
+  - title: 去看TV
+    logo: https://api2.misiai.com/favicon/v1?url=qukantv.net&size=180
+    url: https://www.qukantv.net/
+    description: 全网电影、电视剧在线免费看
+  - title: 六音影院
+    logo: https://api2.misiai.com/favicon/v1?url=v.sixyin.com&size=180
+    url: http://v.sixyin.com/
+    description: 最新电影、电视剧抢先免费在线看
+  - title: 茶杯狐
+    logo: https://api2.misiai.com/favicon/v1?url=cupfox.com&size=180
+    url: https://www.cupfox.com/
+    description: 聚合搜索全网最好的影视资源站，支持免费在线看和下载，从此再也不怕找不到资源
+  - title: 奈飞星影视
+    logo: https://api2.misiai.com/favicon/v1?url=nfstar.net&size=180
+    url: https://nfstar.net/
+    description: 在线免费看超清电影、电视剧的网站，资源持续更新中
+  - title: 新奇遇电影网
+    logo: https://api2.misiai.com/favicon/v1?url=newqiyu.com&size=180
+    url: https://www.newqiyu.com/
+    description: 在线免费无广告看全网影视
+  - title: 悟空视频
+    logo: https://api2.misiai.com/favicon/v1?url=wukongshipin.com&size=180
+    url: http://wukongshipin.com/
+    description: 最新电影、电视剧在线免费看
+  - title: 独播库
+    logo: https://api2.misiai.com/favicon/v1?url=tv.jhooslea.com&size=180
+    url: https://tv.jhooslea.com/
+    description: 在线免费看电影、电视剧、动漫
+  - title: 电影蜜蜂
+    logo: https://api2.misiai.com/favicon/v1?url=idybee.com&size=180
+    url: http://www.idybee.com/
+    description: 高清电影推荐，并支持免费在线看
+  - title: 电影淘淘
+    logo: https://api2.misiai.com/favicon/v1?url=dytt.com&size=180
+    url: http://www.dytt.com/
+    description: 免费在线看电影电视剧，并提供下载。真正的电影天堂
+  - title: 動漫花園
+    logo: https://api2.misiai.com/favicon/v1?url=dmhy.org&size=180
+    url: https://www.dmhy.org/
+    description: 超高质量的动漫资源下载网站
+  - title: AGE动漫
+    logo: https://api2.misiai.com/favicon/v1?url=agefans.tv&size=180
+    url: https://www.agefans.tv/
+    description: 海量高质量动漫在线免费看，并提供下载
+  - title: U5影视
+    logo: https://api2.misiai.com/favicon/v1?url=u5kk.com&size=180
+    url: http://u5kk.com/
+    description: 在线免费看超清视频，而且支持下载哦！
+  - title: MaGeDN
+    logo: https://api2.misiai.com/favicon/v1?url=magedn.com&size=180
+    url: https://www.magedn.com/
+    description: 专注分享4K、蓝光、3D、原盘高清视频，可在线看可下载
+  - title: SeedHub
+    logo: https://api2.misiai.com/favicon/v1?url=seedhub.info&size=180
+    url: http://seedhub.info/
+    description: 专注分享4K、蓝光、3D、原盘高清视频资源
+  - title: 蓝光网
+    logo: https://api2.misiai.com/favicon/v1?url=languang.co&size=180
+    url: http://www.languang.co/
+    description: 蓝光网提供720P、1080P、BluRay蓝光原盘、3D、4K超清电影下载
+  - title: 布谷TV
+    logo: https://api2.misiai.com/favicon/v1?url=bugutv.cn&size=180
+    url: https://www.bugutv.cn/
+    description: 一个专注于4K原盘的影视资源网站，一般是提供的磁力下载链接
+  - title: YYDS电影
+    logo: https://api2.misiai.com/favicon/v1?url=yyds.fans&size=180
+    url: https://yyds.fans/
+    description: 一个电影电视剧下载网站，提供阿里云网盘、百度网盘等各大网盘下载链接
+  - title: 看片狂人
+    logo: https://api2.misiai.com/favicon/v1?url=kpkuang.com&size=180
+    url: https://www.kpkuang.com/
+    description: 在线看热播电影、电视剧等，提供BT和百度网盘下载
+  - title: 高分影院
+    logo: https://api2.misiai.com/favicon/v1?url=gaofen1.com&size=180
+    url: https://www.gaofen1.com/
+    description: 高分电影，最新电影电视剧在线免费看
+  - title: 94神马电影网
+    logo: https://api2.misiai.com/favicon/v1?url=9rmb.com&size=180
+    url: http://www.9rmb.com/
+    description: 免费看最新最火的电影、电视剧
+  - title: 在线之家
+    logo: https://api2.misiai.com/favicon/v1?url=zxzj.me&size=180
+    url: https://www.zxzj.me/
+    description: 在线看热播电影、电视剧等
+  - title: 1090影视
+    logo: https://api2.misiai.com/favicon/v1?url=1090ys1.com&size=180
+    url: http://1090ys1.com/
+    description: 在线看热播电影、电视剧等
+  - title: 嘀哩哩TV
+    logo: https://api2.misiai.com/favicon/v1?url=dililitv.com&size=180
+    url: http://www.dililitv.com/
+    description: 在线看热播电影、电视剧等，提供BT下载
+  - title: 哇有视频
+    logo: https://api2.misiai.com/favicon/v1?url=wayoutv.com&size=180
+    url: https://www.wayoutv.com/
+    description: 在线看热播电影、电视剧等
+  - title: 批哩啪哩
+    logo: https://api2.misiai.com/favicon/v1?url=pilipali.cc&size=180
+    url: http://pilipali.cc/
+    description: 在线看热播电影、电视剧等
+  - title: 音范丝
+    logo: https://api2.misiai.com/favicon/v1?url=yinfans.me&size=180
+    url: http://www.yinfans.me/
+    description: 电影爱好者的分享站，人工精选高质量蓝光4K原盘影视资源
+  - title: 哔嘀影视
+    logo: https://api2.misiai.com/favicon/v1?url=bde4.cc&size=180
+    url: https://bde4.cc/
+    description: 最新电影电视剧，高清免费下载
+  - title: 电影天堂
+    logo: https://api2.misiai.com/favicon/v1?url=dy2018.com&size=180
+    url: https://www.dy2018.com/
+    description: 电影电视剧BT资源下载
+  - title: 外剧网
+    logo: https://api2.misiai.com/favicon/v1?url=waijutv.com&size=180
+    url: https://www.waijutv.com/
+    description: 全球海外剧免费在线看！
+  - title: 字幕库
+    logo: https://api2.misiai.com/favicon/v1?url=zimuku.la&size=180
+    url: http://www.zimuku.la/
+    description: 电影电视剧字幕下载网站
+  - title: 爱美剧
+    logo: https://api2.misiai.com/favicon/v1?url=meiju.com&size=180
+    url: http://www.meiju.com/
+    description: 海量美剧在线看，在线下载
+  - title: 91美剧网
+    logo: https://api2.misiai.com/favicon/v1?url=91mjw.com&size=180
+    url: https://91mjw.com/
+    description: 海量美剧免费在线看
+  - title: 日剧TV
+    logo: https://api2.misiai.com/favicon/v1?url=rijutv.com&size=180
+    url: https://www.rijutv.com/
+    description: 海量日本电影、电视剧在线免费看
+  - title: 韩剧TV
+    logo: https://api2.misiai.com/favicon/v1?url=hanjutv.com&size=180
+    url: https://www.hanjutv.com/
+    description: 最新最热的海量韩剧韩影在线免费看
+  - title: 纪录片天地
+    logo: https://api2.misiai.com/favicon/v1?url=jlpcn.net&size=180
+    url: http://www.jlpcn.net/
+    description: 专门免费提供纪录片的网站
+  - title: 捏它追剧
+    logo: https://api2.misiai.com/favicon/v1?url=nieta.co&size=180
+    url: http://www.nieta.co/
+    description: 海量动漫，日剧，美剧，韩剧免费在线看，让您免费爽快追剧
+  - title: YiYi直播
+    logo: https://api2.misiai.com/favicon/v1?url=yiyizhibo.com&size=180
+    url: https://yiyizhibo.com/
+    description: YiYi直播提供各类体育直播，比如欧洲杯直播、足球直播、篮球直播等
+  - title: 斗球
+    logo: https://api2.misiai.com/favicon/v1?url=dqiu.com&size=180
+    url: https://www.dqiu.com/
+    description: 在线免费看各类体育赛事直播，包括：欧洲杯直播、NBA直播赛程、足球直播等等
+  - title: 电视眼
+    logo: https://api2.misiai.com/favicon/v1?url=tvyan.com&size=180
+    url: http://www.tvyan.com/
+    description: 网络电视直播网，CCTV、卫视、体育直播等高清电视直播免费在线观看，支持回看
+  - title: 火星直播
+    logo: https://api2.misiai.com/favicon/v1?url=wuyuqh.lanzoui.com&size=180
+    url: https://wuyuqh.lanzoui.com/i9kgOrv38cb
+    description: 免费无广告的电视直播软件
+  - title: 简悦电视直播
+    logo: https://api2.misiai.com/favicon/v1?url=microsoft.com&size=180
+    url: https://www.microsoft.com/store/productId/9P0V9QLRGB18
+    description: 一款Windows版的高清电视直播软件，目前只有微软商店版本的
+  - title: 电视直播
+    logo: https://api2.misiai.com/favicon/v1?url=iptv.xiner.store&size=180
+    url: http://iptv.xiner.store/
+    description: 电视直播网提供网络电视直播，比如CCTV、湖南卫视等，网络电视在线观看！
+  - title: 国内外直播源
+    logo: https://api2.misiai.com/favicon/v1?url=ys.xitaofan.com&size=180
+    url: https://ys.xitaofan.com/zbtv/zb.txt
+    description: 几百个国内外无广告频道，可配合黑鸟播放器、PotPlayer等免费看
+  - title: 高清电视直播
+    logo: https://api2.misiai.com/favicon/v1?url=baiduyun.wiki&size=180
+    url: https://www.baiduyun.wiki/tool/tv.html
+    description: 高清电视直播免费看，无广告卡顿，支持1080P，回放，节目预告
+  - title: 电视频道直播源
+    logo: https://api2.misiai.com/favicon/v1?url=ivi.bupt.edu.cn&size=180
+    url: http://ivi.bupt.edu.cn/
+    description: 国内的电视频道直播源，手机和电脑都可以在线看电视直播
+  - title: TVB经典电视剧
+    logo: https://api2.misiai.com/favicon/v1?url=isharepc.com&size=180
+    url: https://www.isharepc.com/tvb.html
+    description: TVB经典电视剧百度网盘资源，所有电视剧均是高清无水印的，建议收藏！
+  - title: 变Tube
+    logo: https://api2.misiai.com/favicon/v1?url=biantube.com&size=180
+    url: https://www.biantube.com/
+    description: 一个支持在国内在线看YouTube视频的网站
+  - title: M3U8播放器
+    logo: https://api2.misiai.com/favicon/v1?url=m3u8play.com&size=180
+    url: https://m3u8play.com/
+    description: 一个在线M3U8播放器，内置电影、美剧、韩剧、动漫、漫画等M3U8资源
+  - title: 央视影音
+    logo: https://api2.misiai.com/favicon/v1?url=app.cctv.com&size=180
+    url: https://app.cctv.com/
+    description: 全平台看所有央视节目
+  - title: 影视聚合APP
+    logo: https://api2.misiai.com/favicon/v1?url=quanwang.ml&size=180
+    url: http://quanwang.ml/
+    description: 一个app中聚合超多影视资源站，支持快速搜索播放视频，安卓上的刷剧良心神器
+  - title: 阿里云盘TV
+    logo: https://api2.misiai.com/favicon/v1?url=wtjperi2003.gitee.io&size=180
+    url: https://wtjperi2003.gitee.io/alipan-tv-web/
+    description: 一款由第三方开发的电视云盘软件，可以在电视和手机上看阿里云盘中的视频，支持不限速以及倍速播放，外挂字幕等等
+  - title: UrleBird
+    logo: https://api2.misiai.com/favicon/v1?url=urlebird.com&size=180
+    url: https://urlebird.com/trending/
+    description: 一个在线刷tiktok视频的网站
+  - title: Browse TikToks
+    logo: https://api2.misiai.com/favicon/v1?url=tik.fail&size=180
+    url: https://tik.fail/browse#random
+    description: 国内在线刷Tiktok短视频，看国外小姐姐
+  - title: 天空影视
+    logo: https://api2.misiai.com/favicon/v1?url=tkys.tv&size=180
+    url: https://www.tkys.tv/
+    description: 高清影视站，速度快，质量高
+  - title: "\U0001F349瓜皮TV"
+    logo: https://api2.misiai.com/favicon/v1?url=dijiaxia.com&size=180
+    url: http://www.dijiaxia.com/
+    description: 瓜皮TV－免费高清电影电视剧影视网站，秒播放超高清无广告，资源第一时间更新，欢迎关注本站第一时间
+  - title: 555电影
+    logo: https://api2.misiai.com/favicon/v1?url=555dy.com&size=180
+    url: https://555dy.com
+    description: ""
+  - title: 真不卡电影网
+    logo: https://api2.misiai.com/favicon/v1?url=zhenbuka3.com&size=180
+    url: https://www.zhenbuka3.com/
+    description: 真正不卡的电影网站
+  - title: 哔嘀影视
+    logo: https://api2.misiai.com/favicon/v1?url=mp4er.com&size=180
+    url: https://www.mp4er.com/
+    description: 高质量在线视频站，速度快，广告电脑可屏蔽。
+  - title: 莫扎兔影视
+    logo: https://api2.misiai.com/favicon/v1?url=mozhatu.com&size=180
+    url: https://www.mozhatu.com/
+    description: 涵盖国内热门剧之外主打美剧
+  - title: 饭团影院
+    logo: https://api2.misiai.com/favicon/v1?url=fantuan.tv&size=180
+    url: https://fantuan.tv/
+    description: 数不多的1080P无水印广告视频站
+  - title: COKEMV影视
+    logo: https://api2.misiai.com/favicon/v1?url=cokemv.me&size=180
+    url: https://cokemv.me/
+    description: 网站颜值不错，资源不是很多但是都是质量高的视频源
+  - title: 1090影视
+    logo: https://api2.misiai.com/favicon/v1?url=1090ys2.com&size=180
+    url: http://1090ys2.com/
+    description: 视频质量较高，有站长整理的合…
+  - title: 白嫖者联盟
+    logo: https://api2.misiai.com/favicon/v1?url=baipiaozhe.com&size=180
+    url: https://www.baipiaozhe.com/
+    description: 白嫖者联盟是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。
+  - title: 51搜剧
+    logo: https://api2.misiai.com/favicon/v1?url=51souju.com&size=180
+    url: https://51souju.com/?aida
+    description: 51搜剧-领先的影视资源搜索引擎
+  - title: 31看影视
+    logo: https://api2.misiai.com/favicon/v1?url=31kan.com&size=180
+    url: http://www.31kan.com
+    description: ""
+  - title: Auete影视
+    logo: https://api2.misiai.com/favicon/v1?url=auete.com&size=180
+    url: https://auete.com/
+    description: 更新快质量不错
+  - title: 歪片星球
+    logo: https://api2.misiai.com/favicon/v1?url=waipian6.com&size=180
+    url: http://waipian6.com/
+    description: 歪片星球.com
+  - title: 电影盒子
+    logo: https://api2.misiai.com/favicon/v1?url=tv012.com&size=180
+    url: http://www.tv012.com/
+    description: 速度快，体验不错
+  - title: 厂长资源
+    logo: https://api2.misiai.com/favicon/v1?url=czspp.com&size=180
+    url: https://czspp.com/
+    description: 海量1080p经典影视
+  - title: 陈家影视
+    logo: https://api2.misiai.com/favicon/v1?url=cjt521.com&size=180
+    url: https://www.cjt521.com
+    description: 最新最快无广告
 - taxonomy: 软件游戏
   icon: fa-gamepad
   nickname: soft
-
+  links:
+  - title: 火龙果写作-AI纠错改写
+    logo: https://api2.misiai.com/favicon/v1?url=web.mypitaya.com&size=180
+    url: https://web.mypitaya.com?bd_source=lxdh
+    description: AI智能纠错改写AI智能纠错改写
+  - title: 虚拟人演示
+    logo: https://api2.misiai.com/favicon/v1?url=bit.ly&size=180
+    url: https://bit.ly/3KgwjGn
+    description: 虚拟人演示
+  - title: Windows正版专区
+    logo: https://api2.misiai.com/favicon/v1?url=store.lizhi.io&size=180
+    url: https://store.lizhi.io/site/search_list?order_by=2&word=&coupon_id=0&category_id=1&is_pro_dis=0&cid=zxmnzvyb
+    description: Windows正版专区
+  - title: Mac正版专区
+    logo: https://api2.misiai.com/favicon/v1?url=store.lizhi.io&size=180
+    url: https://store.lizhi.io/site/search_list?order_by=2&word=&coupon_id=0&category_id=2&is_pro_dis=0&cid=zxmnzvyb
+    description: Mac正版专区
+  - title: 激活工具
+    logo: https://api2.misiai.com/favicon/v1?url=pan.lanzoui.com&size=180
+    url: https://pan.lanzoui.com/b0f1t9l0b
+    description: 激活windows，激活office
+  - title: MacWk
+    logo: https://api2.misiai.com/favicon/v1?url=macwk.com&size=180
+    url: https://www.macwk.com/soft/all/p1
+    description: 知名Mac软件网站知名Mac软件网站
+  - title: Adobe系列_vposy
+    logo: https://api2.misiai.com/favicon/v1?url=weibo.com&size=180
+    url: https://weibo.com/vposy
+    description: adobe系列关注微博后，看置顶帖。专注Adobe系列，大师版/独立SP版，默认解压密码为：@vposy ，推号vposy_
+  - title: 吾爱破解
+    logo: https://api2.misiai.com/favicon/v1?url=52pojie.cn&size=180
+    url: https://www.52pojie.cn/
+    description: 吾爱破解
+  - title: 423Down
+    logo: https://api2.misiai.com/favicon/v1?url=423down.com&size=180
+    url: https://www.423down.com/
+    description: 423Down
+  - title: downloadly
+    logo: https://api2.misiai.com/favicon/v1?url=downloadly.net&size=180
+    url: https://downloadly.net/
+    description: downloadly备用：https://downloadly.ir 需要梯子
+  - title: 果核剥壳
+    logo: https://api2.misiai.com/favicon/v1?url=ghxi.com&size=180
+    url: https://www.ghxi.com/
+    description: 果核剥壳
+  - title: 飞扬时空
+    logo: https://api2.misiai.com/favicon/v1?url=iyoung.ysepan.com&size=180
+    url: http://iyoung.ysepan.com/
+    description: 飞扬时空博客http://blog.sina.com.cn/s/blog_89a729a40102wjwp.html
+  - title: 无忧启动-PE
+    logo: https://api2.misiai.com/favicon/v1?url=bbs.wuyou.net&size=180
+    url: http://bbs.wuyou.net/
+    description: 各类启动盘制作技术，提高工作效率各类启动盘制作技术，提高工作效率
+  - title: MSDN我告诉你
+    logo: https://api2.misiai.com/favicon/v1?url=msdn.itellyou.cn&size=180
+    url: https://msdn.itellyou.cn/
+    description: MSDN我告诉你
+  - title: 殁漂遥
+    logo: https://api2.misiai.com/favicon/v1?url=mpyit.com&size=180
+    url: https://www.mpyit.com/
+    description: 互联网分享精神专注收藏分享
+  - title: 腾龙工作室
+    logo: https://api2.misiai.com/favicon/v1?url=tenlonstudio.com&size=180
+    url: https://www.tenlonstudio.com/
+    description: 腾龙工作室网站创建于2017年10月1日，致力于分享安全的互联网资源和实用的技术文章。
+  - title: 独孤求软
+    logo: https://api2.misiai.com/favicon/v1?url=dugubest.com&size=180
+    url: http://www.dugubest.com/
+    description: 一站式集齐常用软件常用软件一站齐全
+  - title: 小众软件
+    logo: https://api2.misiai.com/favicon/v1?url=appinn.com&size=180
+    url: https://www.appinn.com/
+    description: 小众软件
+  - title: fxxkmakeding
+    logo: https://api2.misiai.com/favicon/v1?url=fxxkmakeding.xyz&size=180
+    url: https://www.fxxkmakeding.xyz/downloads.html
+    description: fxxkmakedinghttps://github.com/xyjoey/fxxkmakeding 且用且珍惜
+  - title: 鱼后花园
+    logo: https://api2.misiai.com/favicon/v1?url=fishlee.net&size=180
+    url: https://www.fishlee.net/
+    description: 鱼后花园
+  - title: mefcl
+    logo: https://api2.misiai.com/favicon/v1?url=mefcl.com&size=180
+    url: http://mefcl.com/
+    description: mefcl
+  - title: 反斗软件
+    logo: https://api2.misiai.com/favicon/v1?url=apprcn.com&size=180
+    url: http://www.apprcn.com/
+    description: 反斗软件
+  - title: 异次元软件
+    logo: https://api2.misiai.com/favicon/v1?url=iplaysoft.com&size=180
+    url: https://www.iplaysoft.com/
+    description: 异次元软件
+  - title: th_sjy汉化
+    logo: https://api2.misiai.com/favicon/v1?url=th&size=180
+    url: http://www.th-sjy.com/
+    description: th_sjy汉化
+  - title: 心海e站
+    logo: https://api2.misiai.com/favicon/v1?url=apphot.cc&size=180
+    url: https://apphot.cc/
+    description: 烈火汉化的一些实用的软件绿色软件
+  - title: 大眼仔旭
+    logo: https://api2.misiai.com/favicon/v1?url=dayanzai.me&size=180
+    url: http://www.dayanzai.me/
+    description: 大眼仔旭
+  - title: 喜欢的软件
+    logo: https://api2.misiai.com/favicon/v1?url=love.appinn.com&size=180
+    url: https://love.appinn.com/
+    description: 喜欢的软件
+  - title: 扩展迷Extfans
+    logo: https://api2.misiai.com/favicon/v1?url=extfans.com&size=180
+    url: https://www.extfans.com/
+    description: 扩展迷Extfans
+  - title: 极简插件
+    logo: https://api2.misiai.com/favicon/v1?url=chrome.zzzmh.cn&size=180
+    url: https://chrome.zzzmh.cn/#ext
+    description: 收录热门好用的Chrome插件扩展
+  - title: chrome插件英雄榜
+    logo: https://api2.misiai.com/favicon/v1?url=zhaoolee.gitbooks.io&size=180
+    url: https://zhaoolee.gitbooks.io/chrome/
+    description: chrome插件英雄榜推荐优秀的Chrome扩展
+  - title: Quicker神器
+    logo: https://api2.misiai.com/favicon/v1?url=getquicker.net&size=180
+    url: https://getquicker.net/?from=ilxdhcom
+    description: windows效率神器。推荐码：195018-9014   使用推荐码可额外获赠天数。windows效率神器。推荐码：195018-9014   使用推荐码可额外获赠天数。
+  - title: 秘塔写作猫
+    logo: https://api2.misiai.com/favicon/v1?url=xiezuocat.com&size=180
+    url: https://xiezuocat.com/?s=ilxdh
+    description: 秘塔写作猫在线纠错改写工具
+  - title: Awesome Windows
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/Awesome-Windows/Awesome
+    description: Windows最佳应用程序和工具的精选列表
+  - title: PowerToys
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/microsoft/PowerToys
+    description: 微软出品的实用工具箱
+  - title: HEU KMS Activator
+    logo: https://api2.misiai.com/favicon/v1?url=lanzoux.com&size=180
+    url: https://lanzoux.com/b674789
+    description: Windows、Office激活工具
+  - title: Dism++
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1
+    description: Windows系统盘清理，系统备份&还原
+  - title: 黑科技工具箱
+    logo: https://api2.misiai.com/favicon/v1?url=pan.baidu.com&size=180
+    url: https://pan.baidu.com/s/1UsSVOZZJfAEgIz01XtF85A
+    description: 吾爱大佬将多款使用工具整合成的一个工具包，比如文库下载，OCR识别等。提取码：whlp
+  - title: Office Tool Plus
+    logo: https://api2.misiai.com/favicon/v1?url=otp.landian.vip&size=180
+    url: https://otp.landian.vip/zh-cn/#
+    description: Office下载、安装、激活、扩展
+  - title: Geek Uninstaller
+    logo: https://api2.misiai.com/favicon/v1?url=geekuninstaller.com&size=180
+    url: https://geekuninstaller.com/
+    description: 超级小巧的软件卸载工具，支持删除卸载后的残留文件以及注册表等
+  - title: PotPlayer
+    logo: https://api2.misiai.com/favicon/v1?url=lanzoux.com&size=180
+    url: https://lanzoux.com/b0gw7r0h
+    description: 备受欢迎的超强视频播放器（纯净版）
+  - title: ZY Player
+    logo: https://api2.misiai.com/favicon/v1?url=zyplayer.fun&size=180
+    url: http://zyplayer.fun/
+    description: 跨平台在线看视频，下载视频神器，支持Win/Mac/Linux
+  - title: Neat Reader
+    logo: https://api2.misiai.com/favicon/v1?url=52pojie.cn&size=180
+    url: https://www.52pojie.cn/thread-1280997-1-1.html
+    description: Epub阅读器，Neat Reader v6.0.4 去广告&去各种限制&可珍藏
+  - title: 逍遥安卓模拟器
+    logo: https://api2.misiai.com/favicon/v1?url=xyaz.cn&size=180
+    url: https://www.xyaz.cn/
+    description: PC端Android模拟器，免费、无广告、性能强
+  - title: WebDav小秘
+    logo: https://api2.misiai.com/favicon/v1?url=lightzhan.xyz&size=180
+    url: https://lightzhan.xyz/index.php/webdavhelper/
+    description: 助用户快速搭建文件分享/同步环境，免去普通用户在文件分享/同步过程中的烦恼
+  - title: CloudDrive
+    logo: https://api2.misiai.com/favicon/v1?url=aliyundrive.com&size=180
+    url: https://www.aliyundrive.com/s/wLQfjyVMUq3
+    description: 一款将云盘挂载成本地硬盘的工具软件，支持阿里云盘、天翼云盘等
+  - title: 9平台音频保存
+    logo: https://api2.misiai.com/favicon/v1?url=lanzoui.com&size=180
+    url: https://lanzoui.com/i7t5iba
+    description: 9平台歌曲、喜马拉雅、蜻蜓、荔枝、音悦台保存软件
+  - title: 水印管家
+    logo: https://api2.misiai.com/favicon/v1?url=yiguotang.lanzoux.com&size=180
+    url: https://yiguotang.lanzoux.com/iB6MGdzhope
+    description: 视频和图片硬去水印软件（pojie版）
+  - title: 万兴优转
+    logo: https://api2.misiai.com/favicon/v1?url=lanzoux.com&size=180
+    url: https://lanzoux.com/b00zaqvfi
+    description: 专业音视频格式转换器，视频压缩，录屏剪辑，DVD刻录（绿色版）
+  - title: 腾讯视频格式转换器
+    logo: https://api2.misiai.com/favicon/v1?url=molipan.lanzoui.com&size=180
+    url: https://molipan.lanzoui.com/icjcYkyryte
+    description: 将腾讯的加密QLV格式视频转换为任意可播放的格式
+  - title: 爱奇艺视频格式转换器
+    logo: https://api2.misiai.com/favicon/v1?url=molipan.lanzoui.com&size=180
+    url: https://molipan.lanzoui.com/iCKpkkyryyj
+    description: 将爱奇艺的加密QSV格式视频转换为任意可播放的格式
+  - title: 分屏助手
+    logo: https://api2.misiai.com/favicon/v1?url=ziyuanhuishequ.lanzouw.com&size=180
+    url: https://ziyuanhuishequ.lanzouw.com/i8lQBx7k79g
+    description: Windows端的屏幕分屏助手，一个显示器分成多个屏幕使用
+  - title: 致美化
+    logo: https://api2.misiai.com/favicon/v1?url=zhutix.com&size=180
+    url: https://zhutix.com/
+    description: 专业的桌面美化平台，个性化你的设备，从这里开始！
+  - title: Lively Wallpaper
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/rocksdanister/lively/
+    description: 开源且免费的视频桌面
+  - title: 人工桌面
+    logo: https://api2.misiai.com/favicon/v1?url=n0va.mihoyo.com&size=180
+    url: https://n0va.mihoyo.com/
+    description: Windows桌面动态壁纸软件，凭借内置的3D少女动画，俘获粉丝几十万，可爱的鹿鸣小姐姐等你唤醒~
+  - title: f.lux
+    logo: https://api2.misiai.com/favicon/v1?url=justgetflux.com&size=180
+    url: https://justgetflux.com/
+    description: 电脑护眼神器，自动调整屏幕色温亮度
+  - title: BitDock
+    logo: https://api2.misiai.com/favicon/v1?url=bitdock.cn&size=180
+    url: http://www.bitdock.cn/bbs/forum.php
+    description: BitDock比特工具栏，支持Mac的工具栏样式
+  - title: 人脸融合
+    logo: https://api2.misiai.com/favicon/v1?url=ziyuanhuishequ.lanzoui.com&size=180
+    url: https://ziyuanhuishequ.lanzoui.com/iMbyou78n6j?w
+    description: 一款将两个人的脸完美融合，并生成新的脸的软件，由百度提供的技术
+  - title: 百度网盘迁移阿里云盘工具
+    logo: https://api2.misiai.com/favicon/v1?url=aliyundrive.com&size=180
+    url: https://www.aliyundrive.com/s/Tuti7gJmERs
+    description: 一款将百度网盘中的文件自动迁移至阿里云盘的工具
+  - title: AliShareTool
+    logo: https://api2.misiai.com/favicon/v1?url=bige.lanzoui.com&size=180
+    url: https://bige.lanzoui.com/i8Gcntikptg
+    description: 阿里云盘文件伪装分享工具，绕过阿里云盘审核，让任何文件都可以分享！
+  - title: ReXdll
+    logo: https://api2.misiai.com/favicon/v1?url=rexdl.com&size=180
+    url: https://rexdl.com/
+    description: 国内可访问的国外Android软件下载网站，特别版本！
+  - title: Kiwi Browser
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/kiwibrowser/src/releases/tag/1019022375
+    description: 一款开源的支持安装Chrome扩展插件，油猴脚本的安卓浏览器
+  - title: AdGuard
+    logo: https://api2.misiai.com/favicon/v1?url=soso.lanzous.com&size=180
+    url: https://soso.lanzous.com/b00ob0dwb
+    description: 提取码：4pgr，Adguard安卓版去广告大杀器，无需ROOT权限，可拦截所有应用和浏览器的广告
+  - title: Fake Location
+    logo: https://api2.misiai.com/favicon/v1?url=lerist.net&size=180
+    url: http://lerist.net/fakelocation
+    description: 一款可以实现自由定位的手机app，支持和很多种软件一起使用，比如钉钉、微信等，免费版已够用
+  - title: Tiktok特别版
+    logo: https://api2.misiai.com/favicon/v1?url=423down.com&size=180
+    url: https://www.423down.com/9718.html
+    description: 国内无任何限制使用抖音海外版TikTok，并且支持切换地区，下载无水印视频！
+  - title: 万能去水印
+    logo: https://api2.misiai.com/favicon/v1?url=yiguotang.lanzoux.com&size=180
+    url: https://yiguotang.lanzoux.com/icrtddzhs3g
+    description: （pojie版）Android端去水印软件，支持短视频去水印，视频硬去水印
+  - title: 语音文字互转
+    logo: https://api2.misiai.com/favicon/v1?url=pan.lanzoux.com&size=180
+    url: https://pan.lanzoux.com/b03ba9uih
+    description: 一款语音转文字，文字转语音的安卓app
+  - title: WIFI万能钥匙显密版
+    logo: https://api2.misiai.com/favicon/v1?url=afengkeji.lanzoui.com&size=180
+    url: https://afengkeji.lanzoui.com/b0d2i19yd
+    description: （内含电脑版）一个屏蔽了WIFI万能钥匙广告，直接显示WIFI密码版本的WIFI万能钥匙
+  - title: 喵惠助手
+    logo: https://api2.misiai.com/favicon/v1?url=ziyuanhuishequ.lanzoui.com&size=180
+    url: https://ziyuanhuishequ.lanzoui.com/iyw89vn55aj
+    description: 一款可以辅助完成各种双十一活动，以及日常抢购、薅羊毛等活动的app
+  - title: 爱思助手
+    logo: https://api2.misiai.com/favicon/v1?url=i4.cn&size=180
+    url: https://www.i4.cn/
+    description: iOS设备辅助工具，包括数据传输、备份、铃声导入、刷机越狱、付费应用下载
+  - title: iPhone虚拟定位
+    logo: https://api2.misiai.com/favicon/v1?url=i4.cn&size=180
+    url: https://www.i4.cn/news_detail_31175.html
+    description: 无需越狱即可将苹果设备定位到任意地点，足不出户就能让朋友圈、微博等内容显示到想要的位置
+  - title: 鲜面连线
+    logo: https://api2.misiai.com/favicon/v1?url=app.so&size=180
+    url: https://app.so/xianmian/
+    description: 苹果iOS的每日精品限免、促销应用推荐
+  - title: 香色闺阁
+    logo: https://api2.misiai.com/favicon/v1?url=apps.apple.com&size=180
+    url: https://apps.apple.com/cn/app/id1521205149
+    description: 一款iOS端支持换源的小说、漫画、听书、听歌、电影、电视剧开源软件，免费看小说、漫画、听书、听歌、电影的神器
+  - title: GM浏览器
+    logo: https://api2.misiai.com/favicon/v1?url=apps.apple.com&size=180
+    url: https://apps.apple.com/cn/app/id1448335477
+    description: 一款免费的iOS浏览器，内置音频和视频嗅探下载功能，并且支持m3u8和ts视频流
+  - title: 吾爱破解
+    logo: https://api2.misiai.com/favicon/v1?url=52pojie.cn&size=180
+    url: https://www.52pojie.cn/?fromuid=782516
+    description: 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护
+  - title: GitHub+加速下载
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/
+    description: 一个面向开源及私有软件项目的托管平台，因为只支持Git作为唯一的版本库格式进行托管，故名GitHub
+  - title: 分享基地
+    logo: https://api2.misiai.com/favicon/v1?url=sourl.cn&size=180
+    url: https://sourl.cn/64p3ZQ
+    description: 分享基地是一个非盈利网站，在这里您可以发现各种各样的软件，有实用的，有趣味的，并且全部免费下载。
+  - title: 亿破姐
+    logo: https://api2.misiai.com/favicon/v1?url=ypojie.com&size=180
+    url: https://www.ypojie.com/
+    description: 更新快资源多，提供城通网盘下载，关注公众号提供百度云下载
+  - title: 微当下载
+    logo: https://api2.misiai.com/favicon/v1?url=weidown.com&size=180
+    url: https://www.weidown.com/
+    description: 不要点击“高速下载”，请点击“本地下载”。
 - taxonomy: 工具相关
   icon: fa-cube
   nickname: tool
-
+  links:
+  - title: 在线纠错改写工具
+    logo: https://api2.misiai.com/favicon/v1?url=xiezuocat.com&size=180
+    url: https://xiezuocat.com/?s=ilxdh
+    description: AI写作辅助秘塔写作猫
+  - title: GreasyFork脚本
+    logo: https://api2.misiai.com/favicon/v1?url=greasyfork.org&size=180
+    url: https://greasyfork.org/zh-CN/help/installing-user-scripts
+    description: GreasyFork脚本
+  - title: 十分钟邮箱
+    logo: https://api2.misiai.com/favicon/v1?url=24mail.chacuo.net&size=180
+    url: http://24mail.chacuo.net/
+    description: 在线生成临时邮箱在线生成临时邮箱，重要账户勿使用
+  - title: 临时邮箱
+    logo: https://api2.misiai.com/favicon/v1?url=linshiyouxiang.net&size=180
+    url: https://www.linshiyouxiang.net/
+    description: 临时邮箱
+  - title: 临时短信接收
+    logo: https://api2.misiai.com/favicon/v1?url=materialtools.com&size=180
+    url: https://www.materialtools.com/
+    description: 临时短信接收在线临时短信接收，重要账户勿使用
+  - title: 微信网页版
+    logo: https://api2.misiai.com/favicon/v1?url=wx.qq.com&size=180
+    url: https://wx.qq.com/
+    description: 微信网页版
+  - title: 在线图表制作
+    logo: https://api2.misiai.com/favicon/v1?url=chartcube.alipay.com&size=180
+    url: https://chartcube.alipay.com/
+    description: 在线图表制作免费好用的在线图表制作工具
+  - title: 123apps
+    logo: https://api2.misiai.com/favicon/v1?url=123apps.com&size=180
+    url: https://123apps.com/cn/
+    description: 123apps
+  - title: MikuTools
+    logo: https://api2.misiai.com/favicon/v1?url=tools.miku.ac&size=180
+    url: https://tools.miku.ac/
+    description: 一个轻量的工具集合一个轻量的工具集合
+  - title: 智能PPT
+    logo: https://api2.misiai.com/favicon/v1?url=aippt.wps.cn&size=180
+    url: https://aippt.wps.cn/
+    description: 智能PPT在线PPT工具，AI自动美化
+  - title: 在线脑图-draw.io
+    logo: https://api2.misiai.com/favicon/v1?url=draw.io&size=180
+    url: https://www.draw.io/?lang=zh
+    description: 在线脑图-draw.io在线绘制流程图，不用注册，支持中文
+  - title: 百度脑图
+    logo: https://api2.misiai.com/favicon/v1?url=naotu.baidu.com&size=180
+    url: https://naotu.baidu.com/
+    description: 便捷的脑图编辑工具在线思维工具
+  - title: 二维码参数化生成器
+    logo: https://api2.misiai.com/favicon/v1?url=qrbtf.com&size=180
+    url: https://qrbtf.com/
+    description: 生成属于自己的独特二维码
+  - title: 草料二维码
+    logo: https://api2.misiai.com/favicon/v1?url=cli.im&size=180
+    url: https://cli.im/
+    description: 草料二维码是国内专业的二维码服务提供商好用的在线生成二维码，解析二维码等工具
+  - title: 网易见外
+    logo: https://api2.misiai.com/favicon/v1?url=jianwai.netease.com&size=180
+    url: https://jianwai.netease.com/index/0
+    description: 网易见外视频翻译，字幕翻译等智能工具
+  - title: 孟坤工具箱
+    logo: https://api2.misiai.com/favicon/v1?url=tool.mkblog.cn&size=180
+    url: http://tool.mkblog.cn/
+    description: 孟坤工具箱网页版
+  - title: 便民查询网
+    logo: https://api2.misiai.com/favicon/v1?url=51240.com&size=180
+    url: https://www.51240.com/
+    description: 51240便民查询网
+  - title: 地图制作分享
+    logo: https://api2.misiai.com/favicon/v1?url=ageeye.cn&size=180
+    url: https://www.ageeye.cn/
+    description: 发现中国是一个知识地图制作分享平台
+  - title: AutoDraw
+    logo: https://api2.misiai.com/favicon/v1?url=autodraw.com&size=180
+    url: https://www.autodraw.com/
+    description: AutoDraw
+  - title: 视频鱼
+    logo: https://api2.misiai.com/favicon/v1?url=shipinyu.com&size=180
+    url: http://shipinyu.com/
+    description: 在线视频下载爱奇艺，腾讯，youku等在线视频下载
+  - title: 易词云
+    logo: https://api2.misiai.com/favicon/v1?url=yciyun.com&size=180
+    url: http://yciyun.com/
+    description: 易词云在线生成中文字云
+  - title: 在线排版工具
+    logo: https://api2.misiai.com/favicon/v1?url=p.haoii123.com&size=180
+    url: http://p.haoii123.com/
+    description: 在线排版工具
+  - title: 文件转换器
+    logo: https://api2.misiai.com/favicon/v1?url=convertio.co&size=180
+    url: https://convertio.co/zh/
+    description: Convertio在线转换文件的简单工具
+  - title: chrome插件网
+    logo: https://api2.misiai.com/favicon/v1?url=cnplugins.com&size=180
+    url: http://www.cnplugins.com/
+    description: 需翻墙直接下载Chrome插件
+  - title: 99参考计算网
+    logo: https://api2.misiai.com/favicon/v1?url=99cankao.com&size=180
+    url: https://www.99cankao.com/
+    description: 99参考计算网
+  - title: 白描-在线OCR识别
+    logo: https://api2.misiai.com/favicon/v1?url=web.baimiaoapp.com&size=180
+    url: https://web.baimiaoapp.com/
+    description: 白描-在线OCR识别白描app，ocr识别网页版
+  - title: 我爱斗图
+    logo: https://api2.misiai.com/favicon/v1?url=52doutu.cn&size=180
+    url: https://www.52doutu.cn/
+    description: 我爱斗图
+  - title: gitmind-在线导图
+    logo: https://api2.misiai.com/favicon/v1?url=gitmind.cn&size=180
+    url: https://gitmind.cn/
+    description: GitMind是一款免费在线思维导图软件免费在线思维导图软件
+  - title: 田字格笔顺字帖
+    logo: https://api2.misiai.com/favicon/v1?url=lab.feifanju.com&size=180
+    url: https://lab.feifanju.com/zitie/
+    description: 该站收录在“软件工具”-“在线工具”
+  - title: 短网址-urlify
+    logo: https://api2.misiai.com/favicon/v1?url=urlify.cn&size=180
+    url: https://urlify.cn/
+    description: 短网址生成
+  - title: 谷歌搜索国内镜像站
+    logo: https://api2.misiai.com/favicon/v1?url=google.fuckcloudnative.io&size=180
+    url: https://google.fuckcloudnative.io/
+    description: 谷歌搜索的完全镜像网站，在国内即可无限制使用谷歌搜索，而且速度还不错！
+  - title: 在线PS
+    logo: https://api2.misiai.com/favicon/v1?url=ps.gaoding.com&size=180
+    url: https://ps.gaoding.com/
+    description: PS软件网页版，不仅支持支持编辑普通的图片，还支持编辑PSD、XD、Sketch、XCF、RAW等，强大！
+  - title: PhotoKit
+    logo: https://api2.misiai.com/favicon/v1?url=photokit.com&size=180
+    url: https://photokit.com/editor/?lang=zh&imyshare.com=friends
+    description: PhotoKit是一个基于AI人工智能的在线图片编辑器，方便易用。您可以通过编辑器一键抠图、改图、修图、美图等
+  - title: 网易见外
+    logo: https://api2.misiai.com/favicon/v1?url=jianwai.youdao.com&size=180
+    url: https://jianwai.youdao.com/
+    description: 视频智能字幕，语音转文字，文档翻译，字幕文件翻译，图像识别，会议同传
+  - title: 配音合成
+    logo: https://api2.misiai.com/favicon/v1?url=51taojinge.com&size=180
+    url: http://www.51taojinge.com/include/voice/voice.php
+    description: 免费的在线文本转语音工具，支持配音、语速、语调、音量调节
+  - title: 字幕说
+    logo: https://api2.misiai.com/favicon/v1?url=subspeak.top&size=180
+    url: https://subspeak.top/
+    description: 在线文字转语音、视频合成、音文对齐工具，免费基本够用
+  - title: 十行笔记
+    logo: https://api2.misiai.com/favicon/v1?url=videoai.perspectivar.com&size=180
+    url: https://videoai.perspectivar.com/
+    description: 快速将视频、音频转换为笔记，提升学习效率
+  - title: 在线录屏
+    logo: https://api2.misiai.com/favicon/v1?url=ouweiya.github.io&size=180
+    url: https://ouweiya.github.io/Web-recording-screen/
+    description: 开源的在线录屏工具，无需下载任何软件，通过浏览器即可录屏，支持录制全屏，程序窗口，浏览器标签页等
+  - title: 照片动漫化
+    logo: https://api2.misiai.com/favicon/v1?url=picup.shop&size=180
+    url: http://www.picup.shop/cartoonImage.html
+    description: 一键将照片变成动漫风格
+  - title: Nvidia Image Inpainting
+    logo: https://api2.misiai.com/favicon/v1?url=nvidia.com&size=180
+    url: https://www.nvidia.com/research/inpainting/
+    description: 在线AI图像修补，可去水印，去除多余元素等
+  - title: 稿定抠图
+    logo: https://api2.misiai.com/favicon/v1?url=koutu.gaoding.com&size=180
+    url: https://koutu.gaoding.com/
+    description: 稿定在线一键AI抠图，证件照换背景工具
+  - title: png3D
+    logo: https://api2.misiai.com/favicon/v1?url=png3d.com&size=180
+    url: https://png3d.com/
+    description: AI一键将2D图变成动态的3D图，照片绘画变得栩栩如生！
+  - title: Colorization
+    logo: https://api2.misiai.com/favicon/v1?url=deepai.org&size=180
+    url: https://deepai.org/machine-learning-model/colorizer
+    description: 使用AI为图片上色，上色效果非常好，可以将照片转为黑白后再上色，风格可能更好看！
+  - title: COLORIZE.
+    logo: https://api2.misiai.com/favicon/v1?url=imagecolorizer.com&size=180
+    url: https://imagecolorizer.com/
+    description: 免费的在线AI黑白照片上色、AI老照片修复工具
+  - title: 在线图像修补工具
+    logo: https://api2.misiai.com/favicon/v1?url=aiseesoft.com&size=180
+    url: https://www.aiseesoft.com/watermark-remover-online/
+    description: 在线图像修补，可用于去除图片中的多余物体，比如水印等
+  - title: BigJpg
+    logo: https://api2.misiai.com/favicon/v1?url=bigjpg.com&size=180
+    url: https://bigjpg.com/
+    description: AI人工智能图片无损放大
+  - title: Artbreeder
+    logo: https://api2.misiai.com/favicon/v1?url=artbreeder.com&size=180
+    url: https://www.artbreeder.com/
+    description: 在线图片合成工具，通过AI将多张图自动合成为一张，创意无限！
+  - title: FotoForensics
+    logo: https://api2.misiai.com/favicon/v1?url=fotoforensics.com&size=180
+    url: https://fotoforensics.com/
+    description: 图片PS痕迹检测，自动检测图片有没有P图痕迹，一切都逃不过我们的法眼！
+  - title: Vocalremover
+    logo: https://api2.misiai.com/favicon/v1?url=vocalremover.org&size=180
+    url: https://vocalremover.org/
+    description: AI伴奏分离、变音，音频变速、剪切、合并、转格式等各种音频工具
+  - title: TinyPNG
+    logo: https://api2.misiai.com/favicon/v1?url=tinypng.com&size=180
+    url: https://tinypng.com/
+    description: 在线jpg、png图片大小压缩
+  - title: EZGIF
+    logo: https://api2.misiai.com/favicon/v1?url=ezgif.com&size=180
+    url: https://ezgif.com/optimize
+    description: 一款专业的GIF压缩工具，支持压缩画质、降低帧率、调整透明度等等方式压缩GIF
+  - title: GIF压缩
+    logo: https://api2.misiai.com/favicon/v1?url=docsmall.com&size=180
+    url: https://docsmall.com/gif-compress
+    description: 简单版的一键GIF压缩工具，无需改变 GIF 尺寸，牺牲少许视觉效果，极大压缩 GIF 体积
+  - title: PearOCR文字识别
+    logo: https://api2.misiai.com/favicon/v1?url=pearocr.com&size=180
+    url: https://pearocr.com/
+    description: 全免费的在线图片文字识别，可离线使用，第一次加载时间较慢
+  - title: Office Convert
+    logo: https://api2.misiai.com/favicon/v1?url=cn.office&size=180
+    url: https://cn.office-converter.com/
+    description: 免费快速在线转换器. 将pdf, 图像, 视频, 文档, 音频, 电子书及压缩等文件格式转换为其他格式
+  - title: PDF24 Tools
+    logo: https://api2.misiai.com/favicon/v1?url=tools.pdf24.org&size=180
+    url: https://tools.pdf24.org/zh/
+    description: 免费且易于使用的在线PDF工具，支持合并、分割、压缩、编辑、转换、文字识别等等
+  - title: CleverPDF
+    logo: https://api2.misiai.com/favicon/v1?url=cleverpdf.com&size=180
+    url: https://www.cleverpdf.com/cn
+    description: 几十个强大的PDF在线工具，无需注册会员，永久免费！
+  - title: 超级PDF
+    logo: https://api2.misiai.com/favicon/v1?url=xpdf.net&size=180
+    url: https://xpdf.net/
+    description: PDF在线转换、处理、识别，每天免费使用6次，够用了
+  - title: Aconvert
+    logo: https://api2.misiai.com/favicon/v1?url=aconvert.com&size=180
+    url: https://www.aconvert.com/
+    description: 完全免费并且不限转换次数的多功能文件格式转换网站
+  - title: iLovePDF
+    logo: https://api2.misiai.com/favicon/v1?url=ilovepdf.com&size=180
+    url: https://www.ilovepdf.com/zh-cn
+    description: 免费的在线文档处理，如PDF合并，文档格式转换等
+  - title: 快工具
+    logo: https://api2.misiai.com/favicon/v1?url=fastools.cn&size=180
+    url: https://www.fastools.cn/
+    description: 一个在线工具合集网站，主要是文档、图像、视频、音频方面的工具
+  - title: Photopea
+    logo: https://api2.misiai.com/favicon/v1?url=photopea.com&size=180
+    url: https://www.photopea.com/
+    description: 在线编辑PSD，XCF，SKetch，XD，CAD文件，界面和PS类似
+  - title: Loading
+    logo: https://api2.misiai.com/favicon/v1?url=loading.io&size=180
+    url: https://loading.io/
+    description: 在线制作各种加载动画，支持下载动画GIF、CSS、SVG、PNG
+  - title: SubPlayer
+    logo: https://api2.misiai.com/favicon/v1?url=subplayer.js.org&size=180
+    url: https://subplayer.js.org/
+    description: 免费的在线字幕编辑工具
+  - title: 395公章
+    logo: https://api2.misiai.com/favicon/v1?url=395.net.cn&size=180
+    url: http://www.395.net.cn/
+    description: 免费在线制作各种印章
+  - title: SOOGIF
+    logo: https://api2.misiai.com/favicon/v1?url=soogif.com&size=180
+    url: https://www.soogif.com/editor
+    description: 在线制作GIF动图
+  - title: MangaEditor
+    logo: https://api2.misiai.com/favicon/v1?url=moeka.me&size=180
+    url: https://moeka.me/mangaEditor/
+    description: 一个在线编辑漫画气泡的小工具，支持自动检测气泡，OCR识别文字进行翻译，添加/修改气泡内容等等功能
+  - title: 微图云
+    logo: https://api2.misiai.com/favicon/v1?url=weitucloud.com&size=180
+    url: https://www.weitucloud.com/
+    description: 一款简单易用的「图标组合」在线生成器，让照片墙、照片组合、图标云、图案组合设计简单起来
+  - title: 美寄词云
+    logo: https://api2.misiai.com/favicon/v1?url=moage.cn&size=180
+    url: https://www.moage.cn/
+    description: 文字云、照片墙在线生成器
+  - title: 高德地图maplab
+    logo: https://api2.misiai.com/favicon/v1?url=maplab.amap.com&size=180
+    url: https://maplab.amap.com/
+    description: 地图数据可视化，可生成各种图
+  - title: Google以图搜图
+    logo: https://api2.misiai.com/favicon/v1?url=google.com&size=180
+    url: https://www.google.com/imghp
+    description: 以图搜图，比百度的好用很多
+  - title: 短信轰炸(压力测试)
+    logo: https://api2.misiai.com/favicon/v1?url=yxdhma.cn&size=180
+    url: https://www.yxdhma.cn/dx/inde.php
+    description: "\U0001F232持续自动向当前已输入的手机号发送各种验证码短信，可用于短信压力测试，重点是免费的哦~"
+  - title: 67工具网
+    logo: https://api2.misiai.com/favicon/v1?url=67tool.com&size=180
+    url: https://67tool.com/
+    description: 致力打造好用的在线工具大全
+  - title: 云U盘
+    logo: https://api2.misiai.com/favicon/v1?url=qingwendang.com&size=180
+    url: http://qingwendang.com/
+    description: 免登陆的云U盘，随时跨设备共享文件
+  - title: FakeAddressGenerator
+    logo: https://api2.misiai.com/favicon/v1?url=fakeaddressgenerator.com&size=180
+    url: https://www.fakeaddressgenerator.com/
+    description: 国外身份信息在线生成器
+  - title: 阅后即焚
+    logo: https://api2.misiai.com/favicon/v1?url=yhjf.cc&size=180
+    url: https://yhjf.cc/
+    description: 创建阅后即焚、加密分享，临时网盘等
+  - title: 精准云工具
+    logo: https://api2.misiai.com/favicon/v1?url=jingzhunyun.com&size=180
+    url: https://jingzhunyun.com/
+    description: 一个收录在线工具的导航网站，网络中的任何工具类产品都在精准云工具的聚合范围内，比如转换工具，站长工具，日常查询类工具，恶搞工具等等，精准云工具致力于整合全网工具导向链...
+  - title: SimSoft
+    logo: https://api2.misiai.com/favicon/v1?url=simsoft.top&size=180
+    url: https://simsoft.top/
+    description: 高效的在线小工具
+  - title: 优工具
+    logo: https://api2.misiai.com/favicon/v1?url=toolbon.com&size=180
+    url: https://toolbon.com/
+    description: 为用户提供便利、丰富的在线工具
+  - title: toolfk工具人
+    logo: https://api2.misiai.com/favicon/v1?url=toolfk.com&size=180
+    url: http://www.toolfk.com/
+    description: PHP在线混淆加密工具、JS在线混淆加密工具、在线并发压力测试工具、在线伪原创工具、在线文字转语音工具、在线进制转换、在线时间戳转换工具、代码在线执行工具、在线短链接生成工...
+  - title: Pickfrom
+    logo: https://api2.misiai.com/favicon/v1?url=zh.pickfrom.net&size=180
+    url: https://zh.pickfrom.net/
+    description: 一站式工具平台，让工作更简单
+  - title: 娃娃在线工具
+    logo: https://api2.misiai.com/favicon/v1?url=iamwawa.cn&size=180
+    url: https://www.iamwawa.cn/
+    description: 蛙蛙工具是一个包含大量在线工具网站，包含语言工具，便民查询，转换工具，生理健康，站长工具等，致力为广大网友提供便利的在线工具服务。
+  - title: 在线工具资料箱
+    logo: https://api2.misiai.com/favicon/v1?url=toolzl.com&size=180
+    url: http://www.toolzl.com/
+    description: 在线工具(toolzl.com),已包含各种类型在线工具,包含开发,运维,常用,站长等,可以方便快捷解决生活和开发上遇到的小问题,是一个简洁清风的在线工具网站.
+  - title: 菜鸟工具
+    logo: https://api2.misiai.com/favicon/v1?url=c.runoob.com&size=180
+    url: https://c.runoob.com/
+    description: 菜鸟工具，为开发设计人员提供在线工具，提供在线PHP、Python、CSS、JS调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。
+  - title: 一个工具箱
+    logo: https://api2.misiai.com/favicon/v1?url=atoolbox.net&size=180
+    url: http://www.atoolbox.net/
+    description: 一个工具箱网站致力于为您打造一个好用便捷的在线工具箱，无需注册和下载安装即可免费使用各种在线工具，涉及加密解密、文字编辑、编程开发、单位换算、日期时间、图形图像、金融...
+  - title: 程序员工具箱
+    logo: https://api2.misiai.com/favicon/v1?url=tool.lu&size=180
+    url: https://tool.lu/
+    description: 在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,sql工具,正则测试工具,favicon在线制作,ruby工具,中文简繁体转换,迅雷下载链接转换,程序猿的在线工具
+  - title: 爱资料工具箱
+    logo: https://api2.misiai.com/favicon/v1?url=toolnb.com&size=180
+    url: https://www.toolnb.com/
+    description: 爱资料在线工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具270款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站.
+  - title: 独特工具箱
+    logo: https://api2.misiai.com/favicon/v1?url=dute.org&size=180
+    url: https://www.dute.org/
+    description: 独特工具箱，提供免费在线工具我们致力于打造体验良好的在线工具，助您的工作和学习一臂之力。
 - taxonomy: 学习相关
   icon: fa-child
   nickname: study
-
+  links:
+  - title: 慕课网
+    logo: https://api2.misiai.com/favicon/v1?url=imooc.com&size=180
+    url: https://www.imooc.com
+    description: 程序员的梦工厂大量免费基础课程，高质量实战付费课程，程序员必备
+  - title: 慕课教程wiki
+    logo: https://api2.misiai.com/favicon/v1?url=imooc.com&size=180
+    url: http://www.imooc.com/wiki/
+    description: 慕课教程，编程入门首选
+  - title: B站
+    logo: https://api2.misiai.com/favicon/v1?url=bilibili.com&size=180
+    url: https://www.bilibili.com/
+    description: bilibili是国内知名的视频弹幕网站搜索能找到各类学习教程，善用搜索功能
+  - title: 尚硅谷
+    logo: https://api2.misiai.com/favicon/v1?url=space.bilibili.com&size=180
+    url: https://space.bilibili.com/302417610
+    description: 尚硅谷
+  - title: 中国大学MOOC
+    logo: https://api2.misiai.com/favicon/v1?url=icourse163.org&size=180
+    url: https://www.icourse163.org
+    description: 中国大学MOOC很多985高校的优质课程
+  - title: MOOC下载器
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/xixixixixiao/mooc-downloader/releases
+    description: 可用于下载中国大学MOOC的课程，包括视频、课件、附件和字幕，方便离线观看。可用于下载中国大学MOOC的课程，包括视频、课件、附件和字幕，方便离线观看。
+  - title: WPS学院
+    logo: https://api2.misiai.com/favicon/v1?url=wps.cn&size=180
+    url: https://www.wps.cn/learning/
+    description: 官方免费学习教程，Office。免费学习Office相关教程
+  - title: 国图公开课
+    logo: https://api2.misiai.com/favicon/v1?url=open.nlc.cn&size=180
+    url: http://open.nlc.cn/
+    description: 国家图书馆旗下网站国家图书馆旗下，涵盖16个学科，名师讲解，值得学习
+  - title: 学堂在线
+    logo: https://api2.misiai.com/favicon/v1?url=next.xuetangx.com&size=180
+    url: https://next.xuetangx.com/
+    description: 学堂在线清华大学发起，国内外一流大学的优质课程
+  - title: 译学馆
+    logo: https://api2.misiai.com/favicon/v1?url=yxgapp.com&size=180
+    url: https://www.yxgapp.com/
+    description: 译学馆
+  - title: CrashCourse中文字幕组
+    logo: https://api2.misiai.com/favicon/v1?url=crashcourse.club&size=180
+    url: https://crashcourse.club/category/
+    description: CrashCourse中文字幕组涉及范围很广，翻译的国外高质量
+  - title: 网易云课堂
+    logo: https://api2.misiai.com/favicon/v1?url=study.163.com&size=180
+    url: https://study.163.com
+    description: 网易云课堂
+  - title: Oeasy系列
+    logo: https://api2.misiai.com/favicon/v1?url=oeasy.org&size=180
+    url: http://oeasy.org
+    description: Oeasy系列很会玩的老师，通俗易懂，很多系列可学
+  - title: 瓢城Web俱乐部
+    logo: https://api2.misiai.com/favicon/v1?url=ycku.com&size=180
+    url: https://www.ycku.com
+    description: 李炎恢的瓢城Web俱乐部李炎恢-IT讲师，通俗易懂
+  - title: doyoudo
+    logo: https://api2.misiai.com/favicon/v1?url=doyoudo.com&size=180
+    url: https://www.doyoudo.com
+    description: doyoudo有趣通俗易懂地教你们用PS，做剪辑等等
+  - title: 菜鸟教程
+    logo: https://api2.misiai.com/favicon/v1?url=runoob.com&size=180
+    url: https://www.runoob.com/
+    description: 菜鸟教程
+  - title: Coursera
+    logo: https://api2.misiai.com/favicon/v1?url=coursera.org&size=180
+    url: https://www.coursera.org/browse
+    description: Coursera
+  - title: KuangStudy
+    logo: https://api2.misiai.com/favicon/v1?url=space.bilibili.com&size=180
+    url: https://space.bilibili.com/95256449/video
+    description: 为每个想学习知识的人，提供一个少走弯路的平台
+  - title: 实验楼
+    logo: https://api2.misiai.com/favicon/v1?url=shiyanlou.com&size=180
+    url: https://www.shiyanlou.com/courses/
+    description: 国内领先的IT在线编程及在线实训学习平台
+  - title: 腾讯课堂
+    logo: https://api2.misiai.com/favicon/v1?url=ke.qq.com&size=180
+    url: https://ke.qq.com
+    description: 专业在线教育平台
+  - title: 网易公开课
+    logo: https://api2.misiai.com/favicon/v1?url=open.163.com&size=180
+    url: https://open.163.com
+    description: 网易公开课
+  - title: '计蒜客 '
+    logo: https://api2.misiai.com/favicon/v1?url=jisuanke.com&size=180
+    url: https://www.jisuanke.com
+    description: 学习面向未来的计算机科学
+  - title: 我要自学网
+    logo: https://api2.misiai.com/favicon/v1?url=51zxw.net&size=180
+    url: https://www.51zxw.net
+    description: 免费视频教程提供全方位软件学习
+  - title: 万门大学
+    logo: https://api2.misiai.com/favicon/v1?url=wanmen.org&size=180
+    url: https://www.wanmen.org
+    description: 提供一站式终身在线学习资源
+  - title: 站酷高高手
+    logo: https://api2.misiai.com/favicon/v1?url=gogoup.com&size=180
+    url: https://www.gogoup.com
+    description: 艺术设计在线教育平台
+  - title: 寻古诗词
+    logo: https://api2.misiai.com/favicon/v1?url=xungushici.com&size=180
+    url: https://www.xungushici.com/?ilxdhcom
+    description: 收录60多万首古诗词并整理分类，方便搜寻查阅。收录60多万首古诗词并整理分类，方便搜寻查阅。
+  - title: 大学公开课知识库
+    logo: https://api2.misiai.com/favicon/v1?url=docs.qq.com&size=180
+    url: https://docs.qq.com/sheet/DRU5MWHZCTHFGQnhM
+    description: 大学公开课知识库
+  - title: 考研经验、心态等-知乎
+    logo: https://api2.misiai.com/favicon/v1?url=zhihu.com&size=180
+    url: https://www.zhihu.com/search?type=content&q=%E8%80%83%E7%A0%94
+    description: 查询备考经验、备考方法等查询备考经验、备考方法等
+  - title: 考研贴吧
+    logo: https://api2.misiai.com/favicon/v1?url=tieba.baidu.com&size=180
+    url: http://tieba.baidu.com/f?kw=%E8%80%83%E7%A0%94&ie=utf-8
+    description: 考研心态交流考研心态交流
+  - title: 中国研究生招生信息网
+    logo: https://api2.misiai.com/favicon/v1?url=yz.chsi.com.cn&size=180
+    url: https://yz.chsi.com.cn/
+    description: 中国研究生招生信息网是隶属于教育部的以考研为主题的官方网站，是全国硕士研究生招生报名和调剂指定网站，主要提供研究生网上报名及调剂、专业目录查询、在线咨询、院校信息、报考指南和考试辅导等多方面的服务和信息指导。
+  - title: 中国考研网
+    logo: https://api2.misiai.com/favicon/v1?url=chinakaoyan.com&size=180
+    url: http://www.chinakaoyan.com/
+    description: 中国考研网
+  - title: 考研院校库
+    logo: https://api2.misiai.com/favicon/v1?url=college.koolearn.com&size=180
+    url: https://college.koolearn.com/fen/pc/
+    description: 新东方在线考研院校库PC
+  - title: 考研报考比
+    logo: https://api2.misiai.com/favicon/v1?url=chinakaoyan.com&size=180
+    url: http://www.chinakaoyan.com/baolubi/
+    description: 考研报考比、分数线分析等
+  - title: 咚咚学习网
+    logo: https://api2.misiai.com/favicon/v1?url=wuqibazao.com&size=180
+    url: https://wuqibazao.com/h-col-110.html
+    description: 咚咚学习网加入社群，微博私信 @班叔 https://weibo.com/p/1005055198011111
+  - title: 金榜题名
+    logo: https://api2.misiai.com/favicon/v1?url=qzbltushu.ys168.com&size=180
+    url: http://qzbltushu.ys168.com/
+    description: 考研网盘资源，请自行鉴别考研网盘资源，请自行鉴别
+  - title: 安心考研
+    logo: https://api2.misiai.com/favicon/v1?url=axky.ys168.com&size=180
+    url: http://axky.ys168.com/
+    description: 网盘资料，请自行鉴别网盘资料，请自行鉴别
+  - title: 考研-面包树
+    logo: https://api2.misiai.com/favicon/v1?url=mianbaoshu.cc&size=180
+    url: https://mianbaoshu.cc/search/%E8%80%83%E7%A0%94?sort=created_at.desc
+    description: 考研-面包树
+  - title: 微博搜索-考研提取码
+    logo: https://api2.misiai.com/favicon/v1?url=s.weibo.com&size=180
+    url: https://s.weibo.com/weibo/%25E8%2580%2583%25E7%25A0%2594%2520%25E6%258F%2590%25E5%258F%2596%25E7%25A0%2581?topnav=1&wvr=6&b=1
+    description: 通过搜索关键词获取
+  - title: 资料下载_考研帮
+    logo: https://api2.misiai.com/favicon/v1?url=download.kaoyan.com&size=180
+    url: http://download.kaoyan.com/
+    description: 资料下载_考研帮
+  - title: 考研论坛
+    logo: https://api2.misiai.com/favicon/v1?url=bbs.kaoyan.com&size=180
+    url: http://bbs.kaoyan.com
+    description: 考研论坛
+  - title: 大家论坛
+    logo: https://api2.misiai.com/favicon/v1?url=club.topsage.com&size=180
+    url: http://club.topsage.com/forum.php?gid=27
+    description: 大家论坛
+  - title: 小木虫考研
+    logo: https://api2.misiai.com/favicon/v1?url=muchong.com&size=180
+    url: http://muchong.com/f-127-1
+    description: 小木虫考研
+  - title: Free考研论坛
+    logo: https://api2.misiai.com/favicon/v1?url=bbs.freekaoyan.com&size=180
+    url: http://bbs.freekaoyan.com/forum.php
+    description: Free考研论坛
+  - title: TED
+    logo: https://api2.misiai.com/favicon/v1?url=ted.com&size=180
+    url: https://www.ted.com
+    description: TED
+  - title: TED官方-西瓜视频
+    logo: https://api2.misiai.com/favicon/v1?url=ixigua.com&size=180
+    url: https://www.ixigua.com/home/6317831772/video/
+    description: TED官方-西瓜视频
+  - title: TED-B站
+    logo: https://api2.misiai.com/favicon/v1?url=search.bilibili.com&size=180
+    url: http://search.bilibili.com/upuser?keyword=TED&page=1&order=fans&order_sort=0
+    description: TED-B站
+  - title: 译学馆
+    logo: https://api2.misiai.com/favicon/v1?url=yxgapp.com&size=180
+    url: https://www.yxgapp.com/
+    description: 译学馆
+  - title: TED-网易公开课
+    logo: https://api2.misiai.com/favicon/v1?url=open.163.com&size=180
+    url: https://open.163.com/ted/
+    description: 网易公开课
+  - title: 六季TED演讲集
+    logo: https://api2.misiai.com/favicon/v1?url=space.bilibili.com&size=180
+    url: https://space.bilibili.com/2272475/video
+    description: 六季TED演讲集
+  - title: TED官方-优酷
+    logo: https://api2.misiai.com/favicon/v1?url=i.youku.com&size=180
+    url: https://i.youku.com/i/UNDQ3MTU0MDI4/videos
+    description: TED官方-优酷
+  - title: TEDtoChina
+    logo: https://api2.misiai.com/favicon/v1?url=weibo.com&size=180
+    url: https://weibo.com/tedtochina
+    description: TEDtoChina
+  - title: TED-腾讯视频
+    logo: https://api2.misiai.com/favicon/v1?url=v.qq.com&size=180
+    url: http://v.qq.com/vplus/ted
+    description: TED-腾讯视频
+  - title: TED官方-土豆
+    logo: https://api2.misiai.com/favicon/v1?url=id.tudou.com&size=180
+    url: http://id.tudou.com/i/UNDQ3MTU0MDI4/videos
+    description: TED官方-土豆
+  - title: TED-新浪公开课
+    logo: https://api2.misiai.com/favicon/v1?url=open.sina.com.cn&size=180
+    url: http://open.sina.com.cn/school/id_57/
+    description: TED新浪公开课
+  - title: TED-A站
+    logo: https://api2.misiai.com/favicon/v1?url=acfun.cn&size=180
+    url: https://www.acfun.cn/a/aa5002167
+    description: TED-A站
+  - title: 如何更快速学英语
+    logo: https://api2.misiai.com/favicon/v1?url=zh.wikihow.com&size=180
+    url: https://zh.wikihow.com/%E6%9B%B4%E5%BF%AB%E9%80%9F%E5%AD%A6%E8%8B%B1%E8%AF%AD
+    description: 如何更快速学英语wikihowwikihow
+  - title: 英语学习系列问题
+    logo: https://api2.misiai.com/favicon/v1?url=zhihu.com&size=180
+    url: https://www.zhihu.com/question/20183585
+    description: 英语学习系列问题
+  - title: 看电影学英语
+    logo: https://api2.misiai.com/favicon/v1?url=learning&size=180
+    url: https://www.learning-english-onlines.com/10%E5%80%8B%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87%E7%B6%B2%E7%AB%99/
+    description: 看电影学英语看电影学英语的10个网站
+  - title: 微软爱写作
+    logo: https://api2.misiai.com/favicon/v1?url=aimwriting.mtutor.engkoo.com&size=180
+    url: https://aimwriting.mtutor.engkoo.com/
+    description: 微软爱写作微软出品的英文写作利器，作文邮件等均适用
+  - title: 沪江英语
+    logo: https://api2.misiai.com/favicon/v1?url=hjenglish.com&size=180
+    url: https://www.hjenglish.com
+    description: 沪江英语
+  - title: 51VOA
+    logo: https://api2.misiai.com/favicon/v1?url=51voa.com&size=180
+    url: https://www.51voa.com
+    description: 51VOA美国之音
+  - title: 学习外语-Memrise
+    logo: https://api2.misiai.com/favicon/v1?url=memrise.com&size=180
+    url: https://www.memrise.com/zh-cn/
+    description: 学习外语-Memrise大部分课程是免费的，APP要付费
+  - title: 可可英语
+    logo: https://api2.misiai.com/favicon/v1?url=kekenet.com&size=180
+    url: http://www.kekenet.com
+    description: 可可英语
+  - title: 普特英语听力
+    logo: https://api2.misiai.com/favicon/v1?url=putclub.com&size=180
+    url: http://www.putclub.com
+    description: 普特英语听力
+  - title: 魔方英语
+    logo: https://api2.misiai.com/favicon/v1?url=mofunenglish.com&size=180
+    url: http://www.mofunenglish.com
+    description: 魔方英语
+  - title: 第一口语网
+    logo: https://api2.misiai.com/favicon/v1?url=1speaking.com&size=180
+    url: http://www.1speaking.com
+    description: 第一口语网
+  - title: 大耳朵英语网
+    logo: https://api2.misiai.com/favicon/v1?url=bigear.cn&size=180
+    url: http://www.bigear.cn
+    description: 大耳朵以坚持免费到底
+  - title: 多邻国
+    logo: https://api2.misiai.com/favicon/v1?url=duolingo.cn&size=180
+    url: http://www.duolingo.cn
+    description: 世界上最受欢迎的语言学习平台
+  - title: 多国语言学习平台
+    logo: https://api2.misiai.com/favicon/v1?url=lang&size=180
+    url: https://lang-8.com
+    description: 多国语言学习平台
+  - title: 七彩英语
+    logo: https://api2.misiai.com/favicon/v1?url=qcenglish.com&size=180
+    url: http://www.qcenglish.com
+    description: 提供各类英文原版电子书下载
+  - title: engVid
+    logo: https://api2.misiai.com/favicon/v1?url=engvid.com&size=180
+    url: https://www.engvid.com
+    description: engVid
+  - title: NPR
+    logo: https://api2.misiai.com/favicon/v1?url=npr.org&size=180
+    url: https://www.npr.org
+    description: NPR
+  - title: 爱英语小站
+    logo: https://api2.misiai.com/favicon/v1?url=iyyxz.com&size=180
+    url: https://www.iyyxz.com
+    description: 爱英语小站致力于分享高质量的英文相关内容
+  - title: 百词斩官网
+    logo: https://api2.misiai.com/favicon/v1?url=baicizhan.com&size=180
+    url: http://www.baicizhan.com
+    description: 百词斩官网
+  - title: 扇贝
+    logo: https://api2.misiai.com/favicon/v1?url=shanbay.com&size=180
+    url: https://www.shanbay.com
+    description: 扇贝
+  - title: 英语学习网站大全
+    logo: https://api2.misiai.com/favicon/v1?url=yywz123.com&size=180
+    url: http://www.yywz123.com
+    description: 英语学习网站大全
+  - title: 译言古登堡计划
+    logo: https://api2.misiai.com/favicon/v1?url=g.yeeyan.org&size=180
+    url: http://g.yeeyan.org
+    description: 译言古登堡计划
+  - title: 硕博生活网
+    logo: https://api2.misiai.com/favicon/v1?url=shuobolife.com&size=180
+    url: https://www.shuobolife.com/
+    description: 本硕博俱乐部，分享考研，论文，软件交友等信息
+  - title: 高考网
+    logo: https://api2.misiai.com/favicon/v1?url=gaokao.com&size=180
+    url: http://www.gaokao.com/
+    description: 高考资源，高考动向等
+  - title: 超星尔雅
+    logo: https://api2.misiai.com/favicon/v1?url=erya.mooc.chaoxing.com&size=180
+    url: http://erya.mooc.chaoxing.com/
+    description: 超星尔雅，专注通识教育，致力于通过资源、技术、服务，成为中国高校通识教育实施难题破冰者。
+  - title: EDX
+    logo: https://api2.misiai.com/favicon/v1?url=edx.org&size=180
+    url: https://www.edx.org/
+    description: 麻省理工和哈佛大学联手创建的大规模开放在线课堂平台。
+  - title: Coursera
+    logo: https://api2.misiai.com/favicon/v1?url=coursera.org&size=180
+    url: https://www.coursera.org/
+    description: 全球最大免费公开课。
+  - title: 爱课程
+    logo: https://api2.misiai.com/favicon/v1?url=icourses.cn&size=180
+    url: http://www.icourses.cn/home/
+    description: “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”委托高等教育出版社建设的高等教育课程资源共享平台
+  - title: MOOC中国
+    logo: https://api2.misiai.com/favicon/v1?url=mooc.cn&size=180
+    url: https://www.mooc.cn/
+    description: MOOC中国是收录全球优秀开放式在线课程的中文慕课网
 - taxonomy: 办公相关
   icon: fa-file-word-o
   nickname: office
-
+  links:
+  - title: HiPPTER
+    logo: https://api2.misiai.com/favicon/v1?url=hippter.com&size=180
+    url: http://www.hippter.com/
+    description: 为PPTER推荐PPT设计相关网站，为你的PPT设计提供创意灵感、配色方案、免费图片、优质图标、工具插件等
+  - title: OfficePLUS
+    logo: https://api2.misiai.com/favicon/v1?url=officeplus.cn&size=180
+    url: http://www.officeplus.cn/List.shtml?cat=PPT
+    description: OfficePLUS，微软Office官方在线模板网站，为您提供各类精品PPT模板、PPT实用模块、Word求职简历、Excel图表、图片素材等资源，成为您职场和生活的加油站！
+  - title: 优品PPT
+    logo: https://api2.misiai.com/favicon/v1?url=ypppt.com&size=180
+    url: http://www.ypppt.com/
+    description: 优品PPT模板网是一家专注于分享高质量的免费PPT模板下载网站，包括图表、背景图片、素材、教程等各类PPT资源。致力于打造国内最大最权威的PPT下载一站式服务平台。ppt主题下载。
+  - title: PPTer吧
+    logo: https://api2.misiai.com/favicon/v1?url=ppter8.com&size=180
+    url: https://www.ppter8.com/
+    description: 资源比较丰富，完全免费的资源比较少，可以自己找一些精品的选择性付费
+  - title: 锐普PPT
+    logo: https://api2.misiai.com/favicon/v1?url=rapidbbs.cn&size=180
+    url: http://www.rapidbbs.cn/
+    description: ""
+  - title: 朴尔PPT
+    logo: https://api2.misiai.com/favicon/v1?url=puerppt.com&size=180
+    url: https://www.puerppt.com/
+    description: 免费下载的精品PPT网站
+  - title: PPT素材网
+    logo: https://api2.misiai.com/favicon/v1?url=pptsucai.com&size=180
+    url: https://www.pptsucai.com
+    description: PPT素材网提供PPT模板免费下载,PPT背景图,PPT素材,PPT背景,免费PPT模板下载,PPT
+  - title: ppter吧
+    logo: https://api2.misiai.com/favicon/v1?url=ppter8.com&size=180
+    url: https://www.ppter8.com/
+    description: 让PPT设计更简单...
+  - title: PPT之家
+    logo: https://api2.misiai.com/favicon/v1?url=52ppt.com&size=180
+    url: https://www.52ppt.com/
+    description: PPT之家提供各类PPT模板下载:PPT,PPT素材,PPT下载,答辩ppt模板,动态ppt模板,个人简历PPT模板,中国风ppt模板,毕业论文ppt模板,商务ppt模板,动画ppt模板,商业ppt模板,创意设计ppt模...
+  - title: 51PPT
+    logo: https://api2.misiai.com/favicon/v1?url=51pptmoban.com&size=180
+    url: http://www.51pptmoban.com/
+    description: 51ppt模板网提供部分原创ppt模板及PPTer分享的优质ppt模板下载，动态ppt模板，宽屏ppt模板，PowerPoint模版背景，ppt模板素材、图表、特效等幻灯片模板设计教程下载。
+  - title: PPTmall
+    logo: https://api2.misiai.com/favicon/v1?url=pptmall.net&size=180
+    url: http://www.pptmall.net/
+    description: PPTmall，以帮助PPT制作者降低PPT制作门槛，提高PPT制作效率和专业度为宗旨，致力于打造免费高质量PPT模板共享平台。
+  - title: 叮当设计
+    logo: https://api2.misiai.com/favicon/v1?url=dingdangsheji.com&size=180
+    url: http://www.dingdangsheji.com/
+    description: 叮当设计网致力于分享优质设计资源，提供PPT模板、PSD源文件、海报、Sketch素材、XD资源、Figma资源、图标、字体等设计素材免费下载。
+  - title: PPTstore
+    logo: https://api2.misiai.com/favicon/v1?url=pptstore.net&size=180
+    url: https://www.pptstore.net/
+    description: PPTSTORE-中国原创PPT模板下载平台:为您提供专业的PPT模板和KEYNOTE模板下载、高端Keynote设计服务，PPT和Keynote培训服务
+  - title: pptfans
+    logo: https://api2.misiai.com/favicon/v1?url=pptfans.cn&size=180
+    url: http://www.pptfans.cn/
+    description: PPT设计教程网为您提供入门级、高级的图文、视频PPT教程，助你学习PPT设计从入门到精通；和专业的PPT设计师交流，在PPTer成长之路上你不再孤独；提供海量高品质PPT模板、PPT素材免...
+  - title: 第一PPT
+    logo: https://api2.misiai.com/favicon/v1?url=1ppt.com&size=180
+    url: http://www.1ppt.com/
+    description: 第一PPT模板网提供各类PPT模板免费下载，PPT背景图，PPT素材，PPT背景，免费PPT模板下载，PPT图表，精美PPT下载，PPT课件下载，PPT背景图片免费下载；
+  - title: 搜图神器
+    logo: https://api2.misiai.com/favicon/v1?url=logosc.cn&size=180
+    url: https://www.logosc.cn/so/s%E8%8D%89
+    description: 一键搜索多家免版权图库，再也不用担心商用图片侵权了
+  - title: 多搜搜
+    logo: https://api2.misiai.com/favicon/v1?url=duososo.com&size=180
+    url: http://duososo.com/
+    description: 多搜搜为您提供图片搜索以及图片搜索引擎，推荐无版权图片，可商用图片，无版权可商用图片网站，并提供PPT工具，PPT模版，PPT背景图片，PPT教程，以及设计、建筑、规划、景观设计...
+  - title: Libre Stock
+    logo: https://api2.misiai.com/favicon/v1?url=librestock.com&size=180
+    url: https://librestock.com/
+    description: 推荐！可一键搜索国外43个免费图片网站的搜索引擎
+  - title: Pixabay
+    logo: https://api2.misiai.com/favicon/v1?url=pixabay.com&size=180
+    url: https://pixabay.com/
+    description: 全球最大的免费图片站，超50万张图，支持中文搜索
+  - title: Unsplash
+    logo: https://api2.misiai.com/favicon/v1?url=unsplash.com&size=180
+    url: https://unsplash.com/
+    description: 海量图库，分类超全，精选挑选整理了各种专题
+  - title: Pexels
+    logo: https://api2.misiai.com/favicon/v1?url=pexels.com&size=180
+    url: https://www.pexels.com/
+    description: 可选择尺寸大小的无版权欧美高清大图
+  - title: Gratisography
+    logo: https://api2.misiai.com/favicon/v1?url=gratisography.com&size=180
+    url: https://gratisography.com/
+    description: 每周更新，精选时尚流行，富有设计感的图片
+  - title: 泼辣有图
+    logo: https://api2.misiai.com/favicon/v1?url=polayoutu.com&size=180
+    url: http://www.polayoutu.com/collections
+    description: 泼辣熊发起的开源摄影项目，质量超高！
+  - title: 天空之城
+    logo: https://api2.misiai.com/favicon/v1?url=skypixel.com&size=180
+    url: https://www.skypixel.com/
+    description: 超赞！全球各地航拍爱好者和专业摄影师的社交平台
+  - title: BURST
+    logo: https://api2.misiai.com/favicon/v1?url=burst.shopify.com&size=180
+    url: https://burst.shopify.com/
+    description: 推荐！海量免费高分辨率图片资源
+  - title: PAKUTASO
+    logo: https://api2.misiai.com/favicon/v1?url=pakutaso.com&size=180
+    url: https://www.pakutaso.com/
+    description: 日本的设计师们都差不多知道啦，有很多日系素材和美图
+  - title: Pattern Library
+    logo: https://api2.misiai.com/favicon/v1?url=thepatternlibrary.com&size=180
+    url: http://thepatternlibrary.com/
+    description: 时尚精致的纹理背景
+  - title: Subtle Patterns
+    logo: https://api2.misiai.com/favicon/v1?url=toptal.com&size=180
+    url: https://www.toptal.com/designers/subtlepatterns/
+    description: 高品质纹理背景素材
+  - title: Foodiesfeed
+    logo: https://api2.misiai.com/favicon/v1?url=foodiesfeed.com&size=180
+    url: https://www.foodiesfeed.com/
+    description: 看了就饿的食物主题素材
+  - title: 500px
+    logo: https://api2.misiai.com/favicon/v1?url=500px.com&size=180
+    url: https://500px.com/
+    description: 可以买到好作品的高质量摄影社区
+  - title: Stickpng
+    logo: https://api2.misiai.com/favicon/v1?url=stickpng.com&size=180
+    url: http://www.stickpng.com/
+    description: 免抠PNG图片资源库
+  - title: Freepik
+    logo: https://api2.misiai.com/favicon/v1?url=freepik.com&size=180
+    url: https://www.freepik.com/
+    description: 拥有海量图片的免费素材库
+  - title: Visualhunt
+    logo: https://api2.misiai.com/favicon/v1?url=visualhunt.com&size=180
+    url: https://visualhunt.com/
+    description: 可按颜色搜索海量授权图片
+  - title: Foter
+    logo: https://api2.misiai.com/favicon/v1?url=foter.com&size=180
+    url: https://foter.com/
+    description: 3.3亿张海量素材库
+  - title: PNGimg
+    logo: https://api2.misiai.com/favicon/v1?url=pngimg.com&size=180
+    url: http://pngimg.com/
+    description: 种类齐全的免扣素材库
+  - title: lifeofpix
+    logo: https://api2.misiai.com/favicon/v1?url=lifeofpix.com&size=180
+    url: https://www.lifeofpix.com/
+    description: ""
+  - title: Stocksnap
+    logo: https://api2.misiai.com/favicon/v1?url=stocksnap.io&size=180
+    url: https://stocksnap.io/
+    description: 号称第一的免费精美图片分享站，可商用，完全免费
 - taxonomy: 音乐相关
   icon: fa-music
   nickname: music
-
+  links:
+  - title: 一起听音乐呀
+    logo: https://api2.misiai.com/favicon/v1?url=music.jsososo.com&size=180
+    url: http://music.jsososo.com/
+    description: 多平台歌曲在线免费听，免费下载，支持无损
+  - title: 铜钟
+    logo: https://api2.misiai.com/favicon/v1?url=tonzhon.com&size=180
+    url: https://tonzhon.com/
+    description: 多平台歌曲在线听，支持下载！登录后可创建歌单并同步
+  - title: 一起听歌吧
+    logo: https://api2.misiai.com/favicon/v1?url=music.alang.run&size=180
+    url: http://music.alang.run/
+    description: 比较有意思的在线听歌网站，可以创建属于自己的音乐屋，让有相同喜好的人聚在一起实时听歌、分享、互动
+  - title: YesPlayMusic
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/qier222/YesPlayMusic
+    description: 开源的在线听网易云音乐，界面好看，软件有特殊功能
+  - title: MyFreeMP3
+    logo: https://api2.misiai.com/favicon/v1?url=music.liumingye.cn&size=180
+    url: https://music.liumingye.cn/
+    description: 免费在线听歌，支持搜索下载无损音乐！
+  - title: 蓝调音乐
+    logo: https://api2.misiai.com/favicon/v1?url=lcoc.top&size=180
+    url: http://lcoc.top/666/
+    description: 多平台歌曲在线免费听，免费下载
+  - title: OnlinePlayer
+    logo: https://api2.misiai.com/favicon/v1?url=music.postgraduate.top&size=180
+    url: https://music.postgraduate.top/
+    description: 勉注册，在线免费听音乐
+  - title: 歌曲大全
+    logo: https://api2.misiai.com/favicon/v1?url=gequdaquan.net&size=180
+    url: http://www.gequdaquan.net/
+    description: 在线听歌，音乐聚合搜索，下载
+  - title: Hifini
+    logo: https://api2.misiai.com/favicon/v1?url=hifini.com&size=180
+    url: https://www.hifini.com/
+    description: 音乐分享网站，提供多格式下载，资源丰富（VIP需要10元）
+  - title: 音兔
+    logo: https://api2.misiai.com/favicon/v1?url=yin2s.com&size=180
+    url: https://www.yin2s.com/
+    description: 一个免费的无损音乐下载网站，提供各种精选的无损歌曲，提供多种下载方式，无套路！
+  - title: 超高无损音乐
+    logo: https://api2.misiai.com/favicon/v1?url=sq688.com&size=180
+    url: https://www.sq688.com/
+    description: 海量无损音乐资源免费下载（仅限手机访问）
+  - title: 百乐米
+    logo: https://api2.misiai.com/favicon/v1?url=bailemi.com&size=180
+    url: https://bailemi.com/
+    description: 专注于分享好听稀有音乐！
+  - title: 车载收音机
+    logo: https://api2.misiai.com/favicon/v1?url=dazhong.lanzoui.com&size=180
+    url: https://dazhong.lanzoui.com/ikAB2rbosid
+    description: 一款免费的电台软件，收录非常丰富的车载电台，全部免费收听！！
+  - title: MyFreeMp3-tool
+    logo: https://api2.misiai.com/favicon/v1?url=tool.liumingye.cn&size=180
+    url: http://tool.liumingye.cn/music/
+    description: 在线音乐免费搜索试听与下载
+  - title: YesPlayMusic
+    logo: https://api2.misiai.com/favicon/v1?url=music.qier222.com&size=180
+    url: https://music.qier222.com
+    description: 高颜值的第三方网易云播放器
+  - title: MyFreeMp3-Music
+    logo: https://api2.misiai.com/favicon/v1?url=music.liumingye.cn&size=180
+    url: http://music.liumingye.cn/
+    description: MyFreeMP3-音乐MP3歌曲免费下载试听的音乐网站
+  - title: 音乐下载器
+    logo: https://api2.misiai.com/favicon/v1?url=music.vaiwan.com&size=180
+    url: http://music.vaiwan.com/
+    description: 根据搜索各音乐平台得到的链接列表
+  - title: My Free Mp3
+    logo: https://api2.misiai.com/favicon/v1?url=myfreemp3.best&size=180
+    url: https://myfreemp3.best/
+    description: 免费音乐下载站点
+  - title: MergeMusic
+    logo: https://api2.misiai.com/favicon/v1?url=flwfdd.xyz&size=180
+    url: https://flwfdd.xyz/music/
+    description: 聚合了网易云音乐、QQ音乐、bilibili的单页面音乐播放下载网站。
+  - title: 果核音乐搜搜
+    logo: https://api2.misiai.com/favicon/v1?url=music.ghxi.com&size=180
+    url: https://music.ghxi.com/
+    description: 果核剥壳开发的音乐搜索解析站，需关注公众号
+  - title: 无损生活
+    logo: https://api2.misiai.com/favicon/v1?url=flac.life&size=180
+    url: https://flac.life/
+    description: 六音软件开发的音乐搜索播放与下载站，需关注公众号
+  - title: 音乐助手
+    logo: https://api2.misiai.com/favicon/v1?url=music.hwkxk.cn&size=180
+    url: https://music.hwkxk.cn/
+    description: 一款多平台音乐在线解析下载的网站，需关注公众号
+  - title: 豆瓣FM
+    logo: https://api2.misiai.com/favicon/v1?url=douban.fm&size=180
+    url: https://douban.fm/
+    description: 豆瓣FM采用个性化推荐技术作为核心的算法它简单、聪明，熟悉每个用户的脾气每个人的收听都与众不同
 - taxonomy: 书籍相关
   icon: fa-book
   nickname: book
-
+  links:
+  - title: TheFuture
+    logo: https://api2.misiai.com/favicon/v1?url=bks.thefuture.top&size=180
+    url: https://bks.thefuture.top/
+    description: 免费的电子书搜索引擎，虽然还是测试阶段，但是蓝奏云的搜索结果还不错
+  - title: 时宜搜书
+    logo: https://api2.misiai.com/favicon/v1?url=shiyisoushu.com&size=180
+    url: https://www.shiyisoushu.com/
+    description: 电子书搜索引擎，在线搜索下载
+  - title: 阅读链
+    logo: https://api2.misiai.com/favicon/v1?url=yuedu.pro&size=180
+    url: https://www.yuedu.pro/
+    description: 电子书搜索下载网站
+  - title: 苦瓜书盘
+    logo: https://api2.misiai.com/favicon/v1?url=kgbook.com&size=180
+    url: https://kgbook.com/
+    description: 电子书搜索下载网站
+  - title: 鸠摩搜书
+    logo: https://api2.misiai.com/favicon/v1?url=jiumodiary.com&size=180
+    url: https://www.jiumodiary.com/
+    description: 文档搜索引擎
+  - title: Zlibrary
+    logo: https://api2.misiai.com/favicon/v1?url=hk1lib.org&size=180
+    url: https://hk1lib.org/
+    description: 数字图书馆，提供电子书搜索和免费下载，国外电子书居多
+  - title: 易阅通
+    logo: https://api2.misiai.com/favicon/v1?url=cnpereading.com&size=180
+    url: https://www.cnpereading.com/
+    description: 免费在线看300W+高质量PDF电子书
+  - title: 书阁网整站电子书打包
+    logo: https://api2.misiai.com/favicon/v1?url=cloud.189.cn&size=180
+    url: https://cloud.189.cn/t/I7Fze2am2Azm
+    description: 书格整站电子书打包，约900G（天翼云）访问码：flc1
+  - title: 多个出版社电子书打包
+    logo: https://api2.misiai.com/favicon/v1?url=cloud.189.cn&size=180
+    url: https://cloud.189.cn/t/uAjqAjuyIzE3
+    description: 中信／机械工业／清华／电子工业出版社的电子书打包，访问码：8vkr
+  - title: 掌阅/Kindle/有声书籍打包
+    logo: https://api2.misiai.com/favicon/v1?url=sn9.us&size=180
+    url: https://sn9.us/dir/17192461-27868687-4e3441
+    description: 掌阅/Kindle/有声书籍资源合集，缺点是城通网盘
+  - title: 城通网盘2W+电子书打包
+    logo: https://api2.misiai.com/favicon/v1?url=545c.com&size=180
+    url: https://545c.com/dir/7823036-11625293-090948
+    description: 城通网盘2W+电子书打包，缺点是城通网盘
+  - title: LoreFree
+    logo: https://api2.misiai.com/favicon/v1?url=ebook2.lorefree.com&size=180
+    url: https://ebook2.lorefree.com/
+    description: 去中心化的免费电子书分享社区
+  - title: 静然书屋
+    logo: https://api2.misiai.com/favicon/v1?url=books.andrewjr.workers.dev&size=180
+    url: https://books.andrewjr.workers.dev/0:/
+    description: 资源非常非常丰富的电子书资源站点，类似网盘，直接下载！
+  - title: 中国数字图书馆
+    logo: https://api2.misiai.com/favicon/v1?url=360elib.com&size=180
+    url: http://www.360elib.com:8041/
+    description: 中国数字图书馆的免费入口
+  - title: 辣豆瓣
+    logo: https://api2.misiai.com/favicon/v1?url=ladouban.com&size=180
+    url: http://www.ladouban.com/
+    description: 推荐书友分享的豆瓣上8分以上的书籍的书单，支持书籍下载
+  - title: 小鱼速读
+    logo: https://api2.misiai.com/favicon/v1?url=xysudu.com&size=180
+    url: http://www.xysudu.com/
+    description: 一个很简洁的在线读书网站，可以读豆瓣排行榜上的书
+  - title: 爱巴士书房
+    logo: https://api2.misiai.com/favicon/v1?url=18sbook.com&size=180
+    url: https://www.18sbook.com/
+    description: 爱巴士书房，阅读者的知识之窗，涵盖了丰富文学作品、小说资源，全都是精校版本的
+  - title: 知识库
+    logo: https://api2.misiai.com/favicon/v1?url=book.zhishikoo.com&size=180
+    url: https://book.zhishikoo.com/
+    description: 免费的电子书分享网站
+  - title: 偶书
+    logo: https://api2.misiai.com/favicon/v1?url=obook.cc&size=180
+    url: https://obook.cc/
+    description: 免费的电子书分享网站，文学类书籍居多
+  - title: SoBooks
+    logo: https://api2.misiai.com/favicon/v1?url=sobooks.cc&size=180
+    url: https://sobooks.cc/
+    description: 优质电子书资源免费下载网站
+  - title: Kindleer
+    logo: https://api2.misiai.com/favicon/v1?url=kindleer.com&size=180
+    url: https://kindleer.com/
+    description: 电子书分享领跑者
+  - title: 脚本之家电子书
+    logo: https://api2.misiai.com/favicon/v1?url=jb51.net&size=180
+    url: https://www.jb51.net/books/
+    description: 脚本之家PDF扫描版电子书，计算机类居多（需要关注公众号）
+  - title: 码农之家
+    logo: https://api2.misiai.com/favicon/v1?url=xz577.com&size=180
+    url: https://www.xz577.com/
+    description: 计算机类电子书下载网站
+  - title: 七秒书盘
+    logo: https://api2.misiai.com/favicon/v1?url=7sebook.com&size=180
+    url: https://www.7sebook.com/disk
+    description: 收揽全网电子书资源，千万资源一搜即达
+  - title: 云海电子图书馆
+    logo: https://api2.misiai.com/favicon/v1?url=pdfbook.cn&size=180
+    url: http://www.pdfbook.cn/
+    description: 免费电子书下载网站
+  - title: 映月读书
+    logo: https://api2.misiai.com/favicon/v1?url=yydushu.com&size=180
+    url: https://www.yydushu.com/
+    description: 文学、名著、小说在线免费阅读，重点是有文学作品~
+  - title: 轻阅
+    logo: https://api2.misiai.com/favicon/v1?url=lanzoui.com&size=180
+    url: https://lanzoui.com/iwbVVit5zda
+    description: 开源阅读软件，内置1472个书源，再也不用担心找不到书看了！
+  - title: 七猫免费小说
+    logo: https://api2.misiai.com/favicon/v1?url=qimao.com&size=180
+    url: https://www.qimao.com/
+    description: 数百万本小说免费看，旗号：免费看书100年！
+  - title: 云看小说
+    logo: https://api2.misiai.com/favicon/v1?url=kan.ks666.top&size=180
+    url: https://kan.ks666.top/
+    description: 在线免费看小说，支持换源，并且无广告
+  - title: Uncle小说
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/unclezs/uncle-novel
+    description: 开源的电脑版全网小说下载神器，支持搜索全网文本小说、有声小说，下载和阅读小说
+  - title: PC端小说下载器
+    logo: https://api2.misiai.com/favicon/v1?url=52pojie.cn&size=180
+    url: https://www.52pojie.cn/thread-1378350-1-1.html
+    description: 吾爱大佬开发的PC版小说下载器，支持多个书源搜索下载，在线看小说也是OK的
+  - title: 换源神器
+    logo: https://api2.misiai.com/favicon/v1?url=huanyuanshenqi.com&size=180
+    url: http://www.huanyuanshenqi.com/
+    description: iOS+Android，汇聚全网优质书源站全部小说，支持在线免费看，离线小说，听书！
+  - title: eRead
+    logo: https://api2.misiai.com/favicon/v1?url=52pojie.cn&size=180
+    url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1431745
+    description: eBook是一款吾爱出品的纯净、安全、无广告的在线小说阅读器（电脑版），可以免费在线看全网小说！
+  - title: 红魔小说网
+    logo: https://api2.misiai.com/favicon/v1?url=hongmoxs.com&size=180
+    url: https://www.hongmoxs.com/
+    description: 免费在线看小说，无广告，阅读体验很好！
+  - title: 知轩藏书
+    logo: https://api2.misiai.com/favicon/v1?url=zxcs.me&size=180
+    url: http://www.zxcs.me/
+    description: 藏尽网络中最好的精校小说，可免费下载
+  - title: 笔趣阁
+    logo: https://api2.misiai.com/favicon/v1?url=biquge5200.cc&size=180
+    url: https://www.biquge5200.cc/
+    description: 高质量的网络小说资源网站，可免费在线看小说
+  - title: 贼吧网
+    logo: https://api2.misiai.com/favicon/v1?url=zei8.me&size=180
+    url: https://www.zei8.me/
+    description: txt小说下载在线阅读的电子书门户网站
+  - title: 棉花糖小说网
+    logo: https://api2.misiai.com/favicon/v1?url=mhtwx.la&size=180
+    url: http://www.mhtwx.la/
+    description: 无需注册即可免费下载全网 txt 小说
+  - title: 精校吧
+    logo: https://api2.misiai.com/favicon/v1?url=jingjiaoba.com&size=180
+    url: https://www.jingjiaoba.com/
+    description: 一个给书友提供下载网络精校txt小说、完本电子书的网站
+  - title: 书荒部落
+    logo: https://api2.misiai.com/favicon/v1?url=noveless.com&size=180
+    url: http://noveless.com/
+    description: 精校全面小说下载
+  - title: 听书宝
+    logo: https://api2.misiai.com/favicon/v1?url=m.tingshubao.com&size=180
+    url: http://m.tingshubao.com/
+    description: 有声小说、评书免费在线收听
+  - title: 期刊杂志
+    logo: https://api2.misiai.com/favicon/v1?url=new&size=180
+    url: http://new-qk.lifves.com/
+    description: 期刊杂志免费在线阅读
+  - title: 参考网
+    logo: https://api2.misiai.com/favicon/v1?url=fx361.com&size=180
+    url: https://www.fx361.com/
+    description: 中文杂志、中文期刊在线阅读网站
+  - title: 报纸杂志大全
+    logo: https://api2.misiai.com/favicon/v1?url=53bk.com&size=180
+    url: http://www.53bk.com/baokan/
+    description: 电子报大全和期刊杂志电子版在线阅读
+  - title: Magazinelib
+    logo: https://api2.misiai.com/favicon/v1?url=magazinelib.com&size=180
+    url: https://magazinelib.com/
+    description: 国外杂志免费下载
+  - title: 心情
+    logo: https://api2.misiai.com/favicon/v1?url=ixinqing.com&size=180
+    url: http://www.ixinqing.com/
+    description: 心理学书籍免费在线阅读
+  - title: 微信读书助手
+    logo: https://api2.misiai.com/favicon/v1?url=weread.qnmlgb.tech&size=180
+    url: https://weread.qnmlgb.tech/chrome
+    description: 自动组队，一键听书，备份笔记，整理书架，再也不用求人组队无限卡了！
+  - title: 一单书
+    logo: https://api2.misiai.com/favicon/v1?url=yidanshu.com&size=180
+    url: https://yidanshu.com/
+    description: 全网优质书单精选，给喜欢阅读的用户推荐有价值的书籍参考
+  - title: 微信读书排行榜
+    logo: https://api2.misiai.com/favicon/v1?url=klib.me&size=180
+    url: http://klib.me/weread/hot/all.html
+    description: 微信读书排行榜榜单，支持阅读热门标注内容
 - taxonomy: 漫画相关
   icon: fa-book
   nickname: anime
-
+  links:
+  - title: bilibili番剧
+    logo: https://api2.misiai.com/favicon/v1?url=bilibili.com&size=180
+    url: https://www.bilibili.com/anime/
+    description: bilibili番剧
+  - title: AGE动漫
+    logo: https://api2.misiai.com/favicon/v1?url=agemys.com&size=180
+    url: https://www.agemys.com/
+    description: AGE动漫备用：http://www.age.tv/
+  - title: 哔咪动漫
+    logo: https://api2.misiai.com/favicon/v1?url=bimiacg.net&size=180
+    url: http://www.bimiacg.net/
+    description: 哔咪动漫
+  - title: 飞极速在线
+    logo: https://api2.misiai.com/favicon/v1?url=feijisu8.com&size=180
+    url: http://www.feijisu8.com/
+    description: 飞极速
+  - title: 星空影视
+    logo: https://api2.misiai.com/favicon/v1?url=xkys.tv&size=180
+    url: http://xkys.tv/
+    description: 星空影视
+  - title: 樱花动漫
+    logo: https://api2.misiai.com/favicon/v1?url=yhdm.so&size=180
+    url: http://www.yhdm.so/
+    description: 樱花动漫
+  - title: ZzzFun
+    logo: https://api2.misiai.com/favicon/v1?url=zzzfun.com&size=180
+    url: http://www.zzzfun.com/
+    description: ZzzFun
+  - title: 动漫花园
+    logo: https://api2.misiai.com/favicon/v1?url=dmhy.org&size=180
+    url: http://dmhy.org/
+    description: 动漫花园可能需要科学上网
+  - title: 动漫花园同步站
+    logo: https://api2.misiai.com/favicon/v1?url=dongmanhuayuan.myheartsite.com&size=180
+    url: https://dongmanhuayuan.myheartsite.com/
+    description: 动漫花园同步站
+  - title: 蜜柑计划
+    logo: https://api2.misiai.com/favicon/v1?url=mikanani.me&size=180
+    url: https://mikanani.me/
+    description: 蜜柑计划超好用的动漫下载网站
+  - title: AGE动漫2
+    logo: https://api2.misiai.com/favicon/v1?url=agefans.one&size=180
+    url: https://agefans.one/
+    description: AGE动漫2
+  - title: 零度动漫下载站
+    logo: https://api2.misiai.com/favicon/v1?url=bt.acgzero.com&size=180
+    url: https://bt.acgzero.com/
+    description: 零度动漫下载站
+  - title: 简单动漫
+    logo: https://api2.misiai.com/favicon/v1?url=36dm.club&size=180
+    url: https://www.36dm.club/
+    description: 原ACG资源网
+  - title: 妮可动漫
+    logo: https://api2.misiai.com/favicon/v1?url=nicotv.me&size=180
+    url: http://www.nicotv.me/
+    description: 宅男腐女们最喜爱的动漫交流互动平台
+  - title: 番组放送
+    logo: https://api2.misiai.com/favicon/v1?url=bgmlist.com&size=180
+    url: https://bgmlist.com/
+    description: 方便快捷的版权动画播放地址聚合站
+  - title: 梦蓝字幕组
+    logo: https://api2.misiai.com/favicon/v1?url=mlsub.net&size=180
+    url: http://mlsub.net/
+    description: 哆啦A梦哆啦A梦
+  - title: AcFun
+    logo: https://api2.misiai.com/favicon/v1?url=acfun.cn&size=180
+    url: https://www.acfun.cn/
+    description: AcFun
+  - title: 猫耳FM
+    logo: https://api2.misiai.com/favicon/v1?url=missevan.com&size=180
+    url: https://www.missevan.com/
+    description: 猫耳FM
+  - title: 腾讯动漫
+    logo: https://api2.misiai.com/favicon/v1?url=v.qq.com&size=180
+    url: https://v.qq.com/cartoon/
+    description: 腾讯动漫
+  - title: 爱奇艺动漫
+    logo: https://api2.misiai.com/favicon/v1?url=iqiyi.com&size=180
+    url: http://www.iqiyi.com/dongman/
+    description: 爱奇艺动漫
+  - title: 优酷动漫
+    logo: https://api2.misiai.com/favicon/v1?url=comic.youku.com&size=180
+    url: https://comic.youku.com/
+    description: 优酷动漫
+  - title: 搜狐动漫
+    logo: https://api2.misiai.com/favicon/v1?url=tv.sohu.com&size=180
+    url: http://tv.sohu.com/comic/
+    description: 搜狐动漫
+  - title: PP动漫
+    logo: https://api2.misiai.com/favicon/v1?url=cartoon.pptv.com&size=180
+    url: http://cartoon.pptv.com/
+    description: PP动漫
+  - title: 乐视动漫
+    logo: https://api2.misiai.com/favicon/v1?url=comic.le.com&size=180
+    url: http://comic.le.com/
+    description: 乐视动漫
+  - title: 萌站次元导航
+    logo: https://api2.misiai.com/favicon/v1?url=moe321.com&size=180
+    url: http://www.moe321.com/
+    description: Moe321萌站
+  - title: 翼萌导航
+    logo: https://api2.misiai.com/favicon/v1?url=d.yimoe.cc&size=180
+    url: http://d.yimoe.cc/
+    description: 小清新ACG导航站
+  - title: 全是漫画App
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/hongchacha/cartoon
+    description: 专门阅读漫画的工具，内置超多资源，无需注册完全免费
+  - title: 动漫屋
+    logo: https://api2.misiai.com/favicon/v1?url=dm5.com&size=180
+    url: http://www.dm5.com/
+    description: 动漫屋，好漫画，为看漫画的人而生
+  - title: Mangabz
+    logo: https://api2.misiai.com/favicon/v1?url=mangabz.com&size=180
+    url: https://www.mangabz.com/
+    description: 资源比较全的在线漫画、日本漫画阅读平台
+  - title: 极速漫画
+    logo: https://api2.misiai.com/favicon/v1?url=1kkk.com&size=180
+    url: http://www.1kkk.com/
+    description: 极速漫画，好漫画，为看漫画的人而生
+  - title: MOXI动漫
+    logo: https://api2.misiai.com/favicon/v1?url=moxidongman.com&size=180
+    url: http://www.moxidongman.com/
+    description: MOXI动漫-专注于PGC动漫内容自制
+  - title: 漫画柜
+    logo: https://api2.misiai.com/favicon/v1?url=manhuagui.com&size=180
+    url: https://www.manhuagui.com/
+    description: 拥有海量的国产漫画、日韩漫画、欧美漫画等丰富漫画资源，免费在线看
+  - title: 动漫之家
+    logo: https://api2.misiai.com/favicon/v1?url=manhua.dmzj.com&size=180
+    url: https://manhua.dmzj.com/
+    description: 海量漫画,全天更新在线漫画欣赏
+  - title: 快看漫画
+    logo: https://api2.misiai.com/favicon/v1?url=kuaikanmanhua.com&size=180
+    url: https://www.kuaikanmanhua.com/
+    description: 快看漫画，官方漫画大全免费在线观看
+  - title: 漫画台
+    logo: https://api2.misiai.com/favicon/v1?url=manhuatai.com&size=180
+    url: https://www.manhuatai.com/
+    description: 国内漫画免费看
+  - title: 漫本
+    logo: https://api2.misiai.com/favicon/v1?url=manben.com&size=180
+    url: http://www.manben.com/
+    description: 华人原创漫画发行平台，也是一个在线漫画的阅读平台
+  - title: 特别版漫画软件合集
+    logo: https://api2.misiai.com/favicon/v1?url=pan.lanzoui.com&size=180
+    url: https://pan.lanzoui.com/b765262/
+    description: 几十款特别版本的漫画软件合集，看漫画不求人
+  - title: Mangabz
+    logo: https://api2.misiai.com/favicon/v1?url=mangabz.com&size=180
+    url: http://www.mangabz.com/
+    description: mangabz是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人202、海賊王1039、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致...
+  - title: P站（pixiv）
+    logo: https://api2.misiai.com/favicon/v1?url=pixiv.net&size=180
+    url: https://www.pixiv.net/
+    description: 著名的插画平台~~下方为P站访问方法
+  - title: 搜漫
+    logo: https://api2.misiai.com/favicon/v1?url=soman.com&size=180
+    url: https://www.soman.com/
+    description: 搜漫连接了全网多个资源丰富的漫画源，为漫画爱好者提供最新最全的漫画资源搜索服务，带你享受一站式看遍全网漫画的极致体验。
+  - title: 漫画柜
+    logo: https://api2.misiai.com/favicon/v1?url=mhgui.com&size=180
+    url: https://www.mhgui.com/
+    description: 看漫画网站拥有海量的国产漫画、日韩漫画、欧美漫画等丰富漫画资源，免费为漫画迷提供及时的更新、清新的界面和舒适的体验,努力打造属于漫画迷的漫画乐园。
+  - title: 风之动漫
+    logo: https://api2.misiai.com/favicon/v1?url=fffdm.com&size=180
+    url: https://www.fffdm.com/
+    description: 风之动漫-在线漫画日本动漫火影忍者漫画海贼王漫画
+  - title: RoozFun漫画
+    logo: https://api2.misiai.com/favicon/v1?url=roozfun.com&size=180
+    url: http://www.roozfun.com/
+    description: RoozFun漫画网是一家下拉式漫画网站，主要提供腐漫画网、汗汗漫画网等全部精彩漫画，并且提供漫画都是免费在线阅读.
 - taxonomy: 图片相关
   icon: fa-picture-o
   nickname: image
-
+  links:
+  - title: 爱设计
+    logo: https://api2.misiai.com/favicon/v1?url=isheji.com&size=180
+    url: https://www.isheji.com/xinmeitilp.html/?utm_type=BD%E6%B8%A0%E9%81%93&utm_source=LXDH&utm_page=xmt&utm_plan=sjmb&utm_unit=tk&utm_keyword=26230
+    description: 海量模板快速出图海量模板快速出图
+  - title: unDraw
+    logo: https://api2.misiai.com/favicon/v1?url=undraw.co&size=180
+    url: https://undraw.co/illustrations
+    description: 完全免费的 SVG/PNG 图片素材的站点无版权，可随意使用，SVG/PNG图片素材
+  - title: 设计师正版专区
+    logo: https://api2.misiai.com/favicon/v1?url=store.lizhi.io&size=180
+    url: https://store.lizhi.io/site/search_list?order_by=2&word=&coupon_id=0&category_id=22&cid=zxmnzvyb
+    description: 图片设计收藏 素材整理 图库管理软件
+  - title: Dribbble
+    logo: https://api2.misiai.com/favicon/v1?url=dribbble.com&size=180
+    url: https://dribbble.com/
+    description: 国际知名设计网站国际知名设计网站
+  - title: Pixabay
+    logo: https://api2.misiai.com/favicon/v1?url=pixabay.com&size=180
+    url: https://pixabay.com/zh/
+    description: Pixabay无版权，可随意使用，老牌图库素材
+  - title: Unsplash
+    logo: https://api2.misiai.com/favicon/v1?url=unsplash.com&size=180
+    url: https://unsplash.com/
+    description: Unsplash无版权，可随意使用
+  - title: Unsplash镜像
+    logo: https://api2.misiai.com/favicon/v1?url=unsplash.dogedoge.com&size=180
+    url: https://unsplash.dogedoge.com/
+    description: 图片地址已经做了处理，复制图片地址可外链无版权，可随意使用
+  - title: StockSnap
+    logo: https://api2.misiai.com/favicon/v1?url=stocksnap.io&size=180
+    url: https://stocksnap.io/
+    description: StockSnap无版权，可随意使用
+  - title: Pexels
+    logo: https://api2.misiai.com/favicon/v1?url=pexels.com&size=180
+    url: https://www.pexels.com/zh-cn/
+    description: Pexels
+  - title: PNG素材库
+    logo: https://api2.misiai.com/favicon/v1?url=pngimg.com&size=180
+    url: http://pngimg.com/
+    description: PNG素材库
+  - title: Librestock
+    logo: https://api2.misiai.com/favicon/v1?url=librestock.com&size=180
+    url: https://librestock.com/
+    description: 可一键搜索国外43个免费图片网站的搜索引擎搜索43个免费图片网站
+  - title: 吉卜力工作室
+    logo: https://api2.misiai.com/favicon/v1?url=ghibli.jp&size=180
+    url: http://www.ghibli.jp/info/013344/
+    description: 将会依次公开其所有动画电影的高清剧照，供公众免费下载使用。将会依次公开其所有动画电影的高清剧照，供公众免费下载使用。
+  - title: 无版权搜索-logosc
+    logo: https://api2.misiai.com/favicon/v1?url=logosc.cn&size=180
+    url: https://www.logosc.cn/so/
+    description: 无版权图片搜索
+  - title: 全画作-全历史
+    logo: https://api2.misiai.com/favicon/v1?url=allhistory.com&size=180
+    url: https://www.allhistory.com/painting
+    description: 全画作-全历史几十万张超高分辨率艺术作品
+  - title: 天空之城
+    logo: https://api2.misiai.com/favicon/v1?url=skypixel.com&size=180
+    url: https://www.skypixel.com/
+    description: 天空之城航拍爱好者社区
+  - title: VisualHunt
+    logo: https://api2.misiai.com/favicon/v1?url=visualhunt.com&size=180
+    url: https://visualhunt.com/
+    description: 可以按颜色查找的免费高质量图库可以按颜色查找的免费高质量图库
+  - title: PAKUTASO
+    logo: https://api2.misiai.com/favicon/v1?url=pakutaso.com&size=180
+    url: https://www.pakutaso.com/
+    description: 来自日本的高质量可免费使用的写真照片无版权，可随意使用，日本的高质量写真照片
+  - title: Foodiesfeed
+    logo: https://api2.misiai.com/favicon/v1?url=foodiesfeed.com&size=180
+    url: https://www.foodiesfeed.com/
+    description: Foodiesfeed无版权，可随意使用，高清的食物食品
+  - title: Gratisography
+    logo: https://api2.misiai.com/favicon/v1?url=gratisography.com&size=180
+    url: https://gratisography.com/
+    description: Gratisography
+  - title: Foter
+    logo: https://api2.misiai.com/favicon/v1?url=foter.com&size=180
+    url: https://foter.com/
+    description: 海量免费高质量图片
+  - title: 500px(国内版)
+    logo: https://api2.misiai.com/favicon/v1?url=500px.me&size=180
+    url: https://500px.me/community/discover
+    description: 500px注意版权！国际版：https://web.500px.com
+  - title: DesignersPics
+    logo: https://api2.misiai.com/favicon/v1?url=designerspics.com&size=180
+    url: http://www.designerspics.com/
+    description: 免费高分辨率的生活图片，可商业用途无版权，可随意使用，高分辨率的生活图片
+  - title: 千图网
+    logo: https://api2.misiai.com/favicon/v1?url=58pic.com&size=180
+    url: https://www.58pic.com/
+    description: 千图网
+  - title: 千库网
+    logo: https://api2.misiai.com/favicon/v1?url=588ku.com&size=180
+    url: https://588ku.com/
+    description: 千库网
+  - title: 1X
+    logo: https://api2.misiai.com/favicon/v1?url=1x.com&size=180
+    url: https://1x.com/
+    description: 格调很高的照片图库
+  - title: GIPHY
+    logo: https://api2.misiai.com/favicon/v1?url=giphy.com&size=180
+    url: https://giphy.com/
+    description: 在线搜索动态Gif图片资源的网站
+  - title: 35photo
+    logo: https://api2.misiai.com/favicon/v1?url=35photo.pro&size=180
+    url: https://35photo.pro/
+    description: 高质量图片分享平台张张经典
+  - title: awesome-design-cn
+    logo: https://api2.misiai.com/favicon/v1?url=github.com&size=180
+    url: https://github.com/jobbole/awesome-design-cn/blob/master/README.md
+    description: awesome-design-cn由伯乐在线资源频道综合整理。包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客、设计工具设计教程、设计素材、配色方案、高清图库等等
+  - title: 更多-uisdc
+    logo: https://api2.misiai.com/favicon/v1?url=hao.uisdc.com&size=180
+    url: https://hao.uisdc.com/photo/
+    description: 更多-uisdc
+  - title: Wallhaven
+    logo: https://api2.misiai.com/favicon/v1?url=wallhaven.cc&size=180
+    url: https://wallhaven.cc/
+    description: 知名壁纸网站，推荐知名壁纸网站
+  - title: Unsplash壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=unsplash.com&size=180
+    url: https://unsplash.com/t/wallpapers
+    description: 无版权，高质量，推荐无版权，超高质量，推荐
+  - title: wallpaper abyss
+    logo: https://api2.misiai.com/favicon/v1?url=wall.alphacoders.com&size=180
+    url: https://wall.alphacoders.com/?lang=Chinese
+    description: 质量高，内容丰富质量高，内容丰富，国内访问稍慢
+  - title: wallpaperscraft
+    logo: https://api2.misiai.com/favicon/v1?url=wallpaperscraft.com&size=180
+    url: https://wallpaperscraft.com/
+    description: 内容丰富，左侧可筛选类型，国内访问稍慢内容丰富，左侧可筛选类型，国内访问稍慢
+  - title: 故宫壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=dpm.org.cn&size=180
+    url: https://www.dpm.org.cn/lights/royal.html
+    description: 故宫壁纸-故宫博物馆
+  - title: 必应每日壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=bing.ioliu.cn&size=180
+    url: https://bing.ioliu.cn/
+    description: 必应每日高清壁纸
+  - title: 咸柠檬壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=zlwallpaper.com&size=180
+    url: http://www.zlwallpaper.com/
+    description: 国内站，wallpaper_abyss提供数据接口。国内站，wallpaper_abyss提供数据接口。
+  - title: 吉卜力工作室
+    logo: https://api2.misiai.com/favicon/v1?url=ghibli.jp&size=180
+    url: http://www.ghibli.jp/info/013344/
+    description: 将会依次公开其所有动画电影的高清剧照，供公众免费下载使用。将会依次公开其所有动画电影的高清剧照，供公众免费下载使用。
+  - title: moviemania壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=moviemania.io&size=180
+    url: https://www.moviemania.io/phone
+    description: 互联网上最大的高分辨率电影壁纸库互联网上最大的无字高分辨率电影壁纸库
+  - title: 极简壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=bz.zzzmh.cn&size=180
+    url: https://bz.zzzmh.cn/
+    description: 个人网站，精选壁纸，收录自WallHaven个人精选壁纸，收录自WallHaven
+  - title: wallroom
+    logo: https://api2.misiai.com/favicon/v1?url=wallroom.io&size=180
+    url: https://wallroom.io/
+    description: wallroom高分辨率高质量壁纸
+  - title: ILovePapers
+    logo: https://api2.misiai.com/favicon/v1?url=ilovepapers.com&size=180
+    url: https://ilovepapers.com/
+    description: 我爱壁纸
+  - title: konachan
+    logo: https://api2.misiai.com/favicon/v1?url=konachan.net&size=180
+    url: https://konachan.net/post
+    description: K站，高质量动漫壁纸，左侧有图片来源、尺寸、下载等按钮K站，高质量动漫壁纸，左侧有图片来源、尺寸、下载等按钮
+  - title: 动漫图片和壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=anime&size=180
+    url: https://anime-pictures.net/?lang=zh_CN
+    description: 想要收集最好的现代亚洲插画
+  - title: 彼岸图网
+    logo: https://api2.misiai.com/favicon/v1?url=pic.netbian.com&size=180
+    url: http://pic.netbian.com/
+    description: 貌似很多来自wallhaven，每天仅提供一张免费下载貌似很多来自wallhaven，每天仅提供一张免费下载
+  - title: wallpaperswide
+    logo: https://api2.misiai.com/favicon/v1?url=wallpaperswide.com&size=180
+    url: http://wallpaperswide.com/
+    description: 多分类多尺寸，点击尺寸可下载多分类多尺寸，点击尺寸可下载
+  - title: wallpapercave
+    logo: https://api2.misiai.com/favicon/v1?url=wallpapercave.com&size=180
+    url: https://wallpapercave.com/
+    description: 分类广泛，内容丰富，国内访问稍慢分类广泛，内容丰富，国内访问稍慢
+  - title: simpledesktops
+    logo: https://api2.misiai.com/favicon/v1?url=simpledesktops.com&size=180
+    url: http://simpledesktops.com/
+    description: 极简、插画极简风格，支持 Mac、iOS、安卓
+  - title: gamewallpapers
+    logo: https://api2.misiai.com/favicon/v1?url=gamewallpapers.com&size=180
+    url: https://www.gamewallpapers.com/
+    description: 游戏专题壁纸，有专门的宽屏、双屏和多屏壁纸游戏专题壁纸，有专门的宽屏、双屏和多屏壁纸
+  - title: Social Wallpapering
+    logo: https://api2.misiai.com/favicon/v1?url=socwall.com&size=180
+    url: https://www.socwall.com/
+    description: 风景图片居多
+  - title: goodfon
+    logo: https://api2.misiai.com/favicon/v1?url=goodfon.com&size=180
+    url: https://www.goodfon.com/
+    description: goodfon壁纸
+  - title: 太空壁纸-psiupuxa
+    logo: https://api2.misiai.com/favicon/v1?url=psiupuxa.com&size=180
+    url: https://psiupuxa.com/
+    description: 太空壁纸
+  - title: 汽车壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=netcarshow.com&size=180
+    url: https://www.netcarshow.com/
+    description: 汽车壁纸
+  - title: Wallpaper Engine
+    logo: https://api2.misiai.com/favicon/v1?url=store.steampowered.com&size=180
+    url: https://store.steampowered.com/app/431960/Wallpaper_Engine/
+    description: 知名动态壁纸引擎知名动态壁纸引擎
+  - title: mac动态壁纸
+    logo: https://api2.misiai.com/favicon/v1?url=dynamicwallpaper.club&size=180
+    url: https://www.dynamicwallpaper.club/gallery
+    description: dynamicwallpaper-mac动态壁纸mac动态壁纸
+  - title: 壁纸-堆糖
+    logo: https://api2.misiai.com/favicon/v1?url=duitang.com&size=180
+    url: https://www.duitang.com/category/?cat=wallpaper
+    description: 堆糖的壁纸分类
+  - title: haikei自做
+    logo: https://api2.misiai.com/favicon/v1?url=app.haikei.app&size=180
+    url: https://app.haikei.app/
+    description: 自做壁纸
+  - title: vlad.studio
+    logo: https://api2.misiai.com/favicon/v1?url=vlad.studio&size=180
+    url: https://vlad.studio/wallpapers/
+    description: vlad.studio
+  - title: deviantart
+    logo: https://api2.misiai.com/favicon/v1?url=deviantart.com&size=180
+    url: https://www.deviantart.com/topic/wallpaper
+    description: 需要科学上网
+  - title: 电脑壁纸 - 精华
+    logo: https://api2.misiai.com/favicon/v1?url=zhihu.com&size=180
+    url: https://www.zhihu.com/topic/19892123/top-answers
+    description: 电脑壁纸 - 精华
+  - title: The Stocks
+    logo: https://api2.misiai.com/favicon/v1?url=thestocks.im&size=180
+    url: http://thestocks.im/
+    description: 无版权图片网站合集，全部为 CC0 协议，无版权免费可用于商业！
+  - title: 聚搜图
+    logo: https://api2.misiai.com/favicon/v1?url=jusotu.com&size=180
+    url: http://www.jusotu.com/
+    description: 全球可用的图片网站合集，分类齐全，包括：3D、插画、UI/UX、LOGO、室内、景观、家具等等
+  - title: Inspiration DE
+    logo: https://api2.misiai.com/favicon/v1?url=inspirationde.com&size=180
+    url: https://www.inspirationde.com/
+    description: 分享全球创意设计作品和素材的网站，可在国内替代Pinterest使用
+  - title: StorySet
+    logo: https://api2.misiai.com/favicon/v1?url=storyset.com&size=180
+    url: https://storyset.com/
+    description: 一个免费可自定义的插画网站，风格多样，可拓展性强
+  - title: Delesign
+    logo: https://api2.misiai.com/favicon/v1?url=delesign.com&size=180
+    url: https://delesign.com/free-designs/graphics/
+    description: 免费可商用的插图素材下载
+  - title: LUKASZADAM
+    logo: https://api2.misiai.com/favicon/v1?url=lukaszadam.com&size=180
+    url: https://lukaszadam.com/illustrations
+    description: 免费可商用的插画图库
+  - title: Many Pixels
+    logo: https://api2.misiai.com/favicon/v1?url=manypixels.co&size=180
+    url: https://www.manypixels.co/gallery/
+    description: 免费可商用的插图库
+  - title: IRA Design
+    logo: https://api2.misiai.com/favicon/v1?url=iradesign.io&size=180
+    url: https://iradesign.io/
+    description: 免费商用矢量插画素材下载网站
+  - title: PSD REPO
+    logo: https://api2.misiai.com/favicon/v1?url=psdrepo.com&size=180
+    url: https://psdrepo.com/
+    description: 免费的UI套件，App/网页设计源文件，PSD源文件，XD模板，样机等下载网站
+  - title: IsoFlat
+    logo: https://api2.misiai.com/favicon/v1?url=isoflat.com&size=180
+    url: https://isoflat.com/
+    description: 免费的2.5D素材下载网站
+  - title: UI STORE
+    logo: https://api2.misiai.com/favicon/v1?url=uistore.design&size=180
+    url: https://www.uistore.design/
+    description: 526个高质量的UI Kit项目源文件免费下载
+  - title: UiForUs
+    logo: https://api2.misiai.com/favicon/v1?url=uiforus.com&size=180
+    url: https://www.uiforus.com/
+    description: UI设计素材分享平台
+  - title: PSDDD
+    logo: https://api2.misiai.com/favicon/v1?url=psddd.co&size=180
+    url: https://psddd.co/
+    description: 免费的PSD，sketch模板下载网站
+  - title: 365PSD
+    logo: https://api2.misiai.com/favicon/v1?url=cn.365psd.com&size=180
+    url: https://cn.365psd.com/free-psd
+    description: 免费的PSD源文件下载网站
+  - title: Is
+    logo: https://api2.misiai.com/favicon/v1?url=ls.graphics&size=180
+    url: https://www.ls.graphics/free-mockups
+    description: 免费高质量的样机下载网站
+  - title: MOCKUP CLUB
+    logo: https://api2.misiai.com/favicon/v1?url=themockup.club&size=180
+    url: https://themockup.club/
+    description: 免费的样机下载网站
+  - title: CG资源网
+    logo: https://api2.misiai.com/favicon/v1?url=cgown.com&size=180
+    url: https://www.cgown.com/
+    description: CG资源网内容涵盖AE模板,AE插件,AE教程,PR模板,FCPX插件,C4D插件,C4D教程,3D模型
+  - title: CG爱好者网
+    logo: https://api2.misiai.com/favicon/v1?url=cgahz.com&size=180
+    url: http://www.cgahz.com/
+    description: CG爱好者网致力于分享ae模板，3D模型， AE素材等CG资
+  - title: 50个免费的3D模型下载网站合集
+    logo: https://api2.misiai.com/favicon/v1?url=zhuanlan.zhihu.com&size=180
+    url: https://zhuanlan.zhihu.com/p/40680702
+    description: 50个最好的免费下载3D模型的网站（内附网址）
+  - title: Free3D
+    logo: https://api2.misiai.com/favicon/v1?url=free3d.com&size=180
+    url: https://free3d.com/
+    description: 免费的3D模型下载网站
+  - title: TFMSTYLE
+    logo: https://api2.misiai.com/favicon/v1?url=tfmstyle.com&size=180
+    url: https://www.tfmstyle.com/
+    description: 高质量的3D源文件免费下载
+  - title: 3DModelFree
+    logo: https://api2.misiai.com/favicon/v1?url=3dmodelfree.com&size=180
+    url: http://www.3dmodelfree.com/3dmodel/list500-1.htm
+    description: 免费的3D素材下载网站
+  - title: Sketchfab
+    logo: https://api2.misiai.com/favicon/v1?url=sketchfab.com&size=180
+    url: https://sketchfab.com/3d-models/popular
+    description: 高质量的3D模型下载，部分免费
+  - title: Mixkit
+    logo: https://api2.misiai.com/favicon/v1?url=mixkit.co&size=180
+    url: https://mixkit.co/
+    description: 免费的视频、音乐、Premiere源文件下载网站
+  - title: AirPano
+    logo: https://api2.misiai.com/favicon/v1?url=airpano.com&size=180
+    url: https://www.airpano.com/360photo_list.php
+    description: 足不出户，看全世界风景，360°照片，360°视频
+  - title: Smartmockups
+    logo: https://api2.misiai.com/favicon/v1?url=smartmockups.com&size=180
+    url: https://smartmockups.com/
+    description: 样机、产品模板素材生成下载
+  - title: FILMGRAB
+    logo: https://api2.misiai.com/favicon/v1?url=film&size=180
+    url: https://film-grab.com/
+    description: 高清电影截图网站，每一张截图都是有灵魂的
+  - title: Cool Backgrounds
+    logo: https://api2.misiai.com/favicon/v1?url=coolbackgrounds.io&size=180
+    url: https://coolbackgrounds.io/
+    description: 五个背景图生成工具，从动态粒子到流行的Unsplash
+  - title: 发散光生成器
+    logo: https://api2.misiai.com/favicon/v1?url=wangyasai.github.io&size=180
+    url: https://wangyasai.github.io/Stars-Emmision/
+    description: 自动生成炫酷的发散光背景图
+  - title: 双色图生成器
+    logo: https://api2.misiai.com/favicon/v1?url=duotone.shapefactory.co&size=180
+    url: https://duotone.shapefactory.co/
+    description: 将图片转换为双色，可提升背景图的高级感
+  - title: Get Waves
+    logo: https://api2.misiai.com/favicon/v1?url=getwaves.io&size=180
+    url: https://getwaves.io/
+    description: 在线生成优美的波浪线
+  - title: Blobmaker
+    logo: https://api2.misiai.com/favicon/v1?url=blobmaker.app&size=180
+    url: https://www.blobmaker.app/
+    description: 一键生成各种不规则形状
+  - title: Pixel Map
+    logo: https://api2.misiai.com/favicon/v1?url=pixelmap.amcharts.com&size=180
+    url: https://pixelmap.amcharts.com/
+    description: 矢量地图下载，支持选择区域
+  - title: Pixiviz
+    logo: https://api2.misiai.com/favicon/v1?url=pixiviz.pwp.app&size=180
+    url: https://pixiviz.pwp.app/
+    description: pixiv国内代理网站，pixiv是一个以插图、漫画和小说、艺术为中心的社交网络服务里的虚拟社区网站
+  - title: 搜图神器
+    logo: https://api2.misiai.com/favicon/v1?url=logosc.cn&size=180
+    url: https://www.logosc.cn/so/s%E8%8D%89
+    description: 一键搜索多家免版权图库，再也不用担心商用图片侵权了
+  - title: 多搜搜
+    logo: https://api2.misiai.com/favicon/v1?url=duososo.com&size=180
+    url: http://duososo.com/
+    description: 多搜搜为您提供图片搜索以及图片搜索引擎，推荐无版权图片，可商用图片，无版权可商用图片网站，并提供PPT工具，PPT模版，PPT背景图片，PPT教程，以及设计、建筑、规划、景观设计...
+  - title: Pixabay
+    logo: https://api2.misiai.com/favicon/v1?url=pixabay.com&size=180
+    url: https://pixabay.com/
+    description: 全球最大的免费图片站，超50万张图，支持中文搜索
+  - title: Pexels
+    logo: https://api2.misiai.com/favicon/v1?url=pexels.com&size=180
+    url: https://www.pexels.com/
+    description: 可选择尺寸大小的无版权欧美高清大图
+  - title: 泼辣有图
+    logo: https://api2.misiai.com/favicon/v1?url=polayoutu.com&size=180
+    url: http://www.polayoutu.com/collections
+    description: 泼辣熊发起的开源摄影项目，质量超高！
+  - title: BURST
+    logo: https://api2.misiai.com/favicon/v1?url=burst.shopify.com&size=180
+    url: https://burst.shopify.com/
+    description: 推荐！海量免费高分辨率图片资源
+  - title: Pattern Library
+    logo: https://api2.misiai.com/favicon/v1?url=thepatternlibrary.com&size=180
+    url: http://thepatternlibrary.com/
+    description: 时尚精致的纹理背景
+  - title: Subtle Patterns
+    logo: https://api2.misiai.com/favicon/v1?url=toptal.com&size=180
+    url: https://www.toptal.com/designers/subtlepatterns/
+    description: 高品质纹理背景素材
+  - title: 500px
+    logo: https://api2.misiai.com/favicon/v1?url=500px.com&size=180
+    url: https://500px.com/
+    description: 可以买到好作品的高质量摄影社区
+  - title: Stickpng
+    logo: https://api2.misiai.com/favicon/v1?url=stickpng.com&size=180
+    url: http://www.stickpng.com/
+    description: 免抠PNG图片资源库
+  - title: Freepik
+    logo: https://api2.misiai.com/favicon/v1?url=freepik.com&size=180
+    url: https://www.freepik.com/
+    description: 拥有海量图片的免费素材库
+  - title: lifeofpix
+    logo: https://api2.misiai.com/favicon/v1?url=lifeofpix.com&size=180
+    url: https://www.lifeofpix.com/
+    description: ""
+  - title: Iconfont
+    logo: https://api2.misiai.com/favicon/v1?url=iconfont.cn&size=180
+    url: https://www.iconfont.cn/
+    description: Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具
+  - title: Easyicon
+    logo: https://api2.misiai.com/favicon/v1?url=easyicon.cc&size=180
+    url: https://www.easyicon.cc/
+    description: 提供★超过六十万个★SVG、PNG、ICO、ICNS图标搜索、图标下载服务。
+  - title: YEELOGO
+    logo: https://api2.misiai.com/favicon/v1?url=yeelogo.com&size=180
+    url: http://yeelogo.com/#/
+    description: 强大LOGO生成器、创意LOGO、免费下载
+  - title: PornHub Logo制作
+    logo: https://api2.misiai.com/favicon/v1?url=logoly.pro&size=180
+    url: https://www.logoly.pro/#/
+    description: Logoly.pro一个创造性的标志生成器，你可以生成类似于Pornhub，YouTube等的标志。
+  - title: 寻图标
+    logo: https://api2.misiai.com/favicon/v1?url=icon.52112.com&size=180
+    url: https://icon.52112.com
+    description: 寻图标是国内功能强大图标内容丰富的icon图标库.
+  - title: LOGO搜索
+    logo: https://api2.misiai.com/favicon/v1?url=instantlogosearch.com&size=180
+    url: http://instantlogosearch.com/
+    description: 提供logo搜索服务
+  - title: Thenounproject
+    logo: https://api2.misiai.com/favicon/v1?url=thenounproject.com&size=180
+    url: https://thenounproject.com/
+    description: 提供200万+图标下载
+  - title: Flaticon
+    logo: https://api2.misiai.com/favicon/v1?url=flaticon.com&size=180
+    url: https://www.flaticon.com/
+    description: 提供200万+图标下载
+  - title: iconfinder
+    logo: https://api2.misiai.com/favicon/v1?url=iconfinder.com&size=180
+    url: https://www.iconfinder.com/
+    description: 提供400万+图标下载
+  - title: icons8
+    logo: https://api2.misiai.com/favicon/v1?url=icons8.com&size=180
+    url: https://icons8.com/
+    description: Icons8是一款使用方便且优雅的图标库，你可以从这里快速找到心仪的图标为网站、应用、设计图、PPT中使用。Icons8提供PNG免费下载，像素大能到500px的图标。
+  - title: Wallls
+    logo: https://api2.misiai.com/favicon/v1?url=wallls.com&size=180
+    url: http://wallls.com/
+    description: 分类齐全的免费壁纸站
+  - title: Wallpaperup
+    logo: https://api2.misiai.com/favicon/v1?url=wallpaperup.com&size=180
+    url: https://www.wallpaperup.com/
+    description: 在这个网站上，你可以选择通过分类来找到想要的壁纸，也可以通过屏幕分辨率，适配你本身的电脑屏幕，甚至手机。
+  - title: Wallhere
+    logo: https://api2.misiai.com/favicon/v1?url=wallhere.com&size=180
+    url: https://wallhere.com/
+    description: 世界著名的壁纸网站之一！
+  - title: Zedge
+    logo: https://api2.misiai.com/favicon/v1?url=zedge.net&size=180
+    url: https://www.zedge.net/wallpapers
+    description: 非常棒的手机壁纸下载站，非APP需等10秒
+  - title: pixelz
+    logo: https://api2.misiai.com/favicon/v1?url=pixelz.cc&size=180
+    url: https://pixelz.cc/
+    description: 非常棒的壁纸搜索网站
+  - title: Allmacwallpaper
+    logo: https://api2.misiai.com/favicon/v1?url=allmacwallpaper.com&size=180
+    url: https://www.allmacwallpaper.com/
+    description: 主打MAC的壁纸下载站
+  - title: 极品图片
+    logo: https://api2.misiai.com/favicon/v1?url=jpgjpg.com&size=180
+    url: https://www.jpgjpg.com/
+    description: 高清壁纸下载，大部分为美女写真图片
+  - title: Freeios8
+    logo: https://api2.misiai.com/favicon/v1?url=freeios8.com&size=180
+    url: https://freeios8.com/
+    description: 高清手机壁纸下载
+  - title: Wallpapermaiden
+    logo: https://api2.misiai.com/favicon/v1?url=wallpapermaiden.com&size=180
+    url: https://www.wallpapermaiden.com/
+    description: 最佳桌面壁纸，全高清背景
+  - title: Anime-pictures
+    logo: https://api2.misiai.com/favicon/v1?url=anime&size=180
+    url: https://anime-pictures.net/?
+    description: 二次元壁纸站，搬运P站高质量壁纸
+  - title: Wallpaperstock
+    logo: https://api2.misiai.com/favicon/v1?url=wallpaperstock.net&size=180
+    url: https://wallpaperstock.net/
+    description: 免费壁纸下载站
+  - title: Hdqwalls
+    logo: https://api2.misiai.com/favicon/v1?url=hdqwalls.com&size=180
+    url: https://hdqwalls.com/
+    description: 高清壁纸下载站
+  - title: Desktopwallpapers
+    logo: https://api2.misiai.com/favicon/v1?url=desktopwallpapers.org.ua&size=180
+    url: http://desktopwallpapers.org.ua/
+    description: 提供墙纸和图片，但只提供最高质量，最大程度的图片扩展。显示器美丽的桌面墙纸，让您动起来，免费下载桌面墙纸。
+  - title: Alphacoders
+    logo: https://api2.misiai.com/favicon/v1?url=wall.alphacoders.com&size=180
+    url: https://wall.alphacoders.com/
+    description: 壁纸类型丰富，质量高，可切换中文语言。
+  - title: 回车桌面
+    logo: https://api2.misiai.com/favicon/v1?url=enterdesk.com&size=180
+    url: https://www.enterdesk.com/
+    description: 提供桌面壁纸、桌面主题、手机壁纸、手机图片、手机背景图片等免费制作与下载
+  - title: 美桌
+    logo: https://api2.misiai.com/favicon/v1?url=win4000.com&size=180
+    url: http://www.win4000.com/
+    description: 质量不错的电脑壁纸下载站
 - taxonomy: 图片工具
   icon: fa-image
   nickname: image_tool
-
+  links:
+  - title: 动效制作-犸良
+    logo: https://api2.misiai.com/favicon/v1?url=design.alipay.com&size=180
+    url: https://design.alipay.com/emotion
+    description: 动效制作-犸良支付宝设计团队出品的超好用动效制作平台
+  - title: Adobe系列_vposy
+    logo: https://api2.misiai.com/favicon/v1?url=weibo.com&size=180
+    url: https://weibo.com/vposy
+    description: adobe系列关注微博后，看置顶帖。专注Adobe系列，大师版/独立SP版，默认解压密码为：@vposy ，推号vposy_
+  - title: 在线PS
+    logo: https://api2.misiai.com/favicon/v1?url=photopea.com&size=180
+    url: https://www.photopea.com/
+    description: 在线ps
+  - title: 在线PS（国内版）
+    logo: https://api2.misiai.com/favicon/v1?url=ps.gaoding.com&size=180
+    url: https://ps.gaoding.com/#/
+    description: 在线PS（国内版）
+  - title: Adobe Photoshop Express
+    logo: https://api2.misiai.com/favicon/v1?url=photoshop.adobe.com&size=180
+    url: https://photoshop.adobe.com/
+    description: adobe在线处理图片
+  - title: 样机图-smartmockups
+    logo: https://api2.misiai.com/favicon/v1?url=smartmockups.com&size=180
+    url: https://smartmockups.com/category
+    description: 样机图-smartmockups场景很多，看效果很棒
+  - title: 样机图-cleanmock
+    logo: https://api2.misiai.com/favicon/v1?url=cleanmock.com&size=180
+    url: https://cleanmock.com/designer
+    description: 样机图-cleanmock
+  - title: 图床-PicGo
+    logo: https://api2.misiai.com/favicon/v1?url=molunerfinn.com&size=180
+    url: https://molunerfinn.com/PicGo/
+    description: 图床-PicGo
+  - title: AI画伯-AI Gahaku
+    logo: https://api2.misiai.com/favicon/v1?url=ai&size=180
+    url: https://ai-art.tokyo/en/#/
+    description: 做有个性的头像AI帮你把照片秒变油画，瞬间感觉很高级
+  - title: 放大-waifu2x.booru
+    logo: https://api2.misiai.com/favicon/v1?url=waifu2x.booru.pics&size=180
+    url: https://waifu2x.booru.pics/
+    description: 基于waifu2x的无损放大waifu2x官方：http://waifu2x.udp.jp/
+  - title: 放大-bigjpg
+    logo: https://api2.misiai.com/favicon/v1?url=bigjpg.com&size=180
+    url: https://bigjpg.com/zh
+    description: 人工智能无损放大使用开源waifu2x人工能深度卷积神经网络（CNN）智能无损免费放大图片
+  - title: 修复图像-PixFix
+    logo: https://api2.misiai.com/favicon/v1?url=zh.pixfix.com&size=180
+    url: https://zh.pixfix.com/
+    description: 图片修复-PixFix能够清理被噪声和过度JPEG压缩损坏的图像；以专有算法为基础，效果很好
+  - title: 图片上色-ColouriseSG
+    logo: https://api2.misiai.com/favicon/v1?url=colourise.sg&size=180
+    url: https://colourise.sg/
+    description: 图片上色-ColouriseSG
+  - title: 智能上色ImagetoImage
+    logo: https://api2.misiai.com/favicon/v1?url=affinelayer.com&size=180
+    url: https://affinelayer.com/pixsrv/index.html
+    description: 人工智能上色，该网站学习了成千上万种图片，可以给各种素描图自动填充颜色人工智能上色，该网站学习了成千上万种图片，可以给各种素描图自动填充颜色
+  - title: 压缩-TinyPNG
+    logo: https://api2.misiai.com/favicon/v1?url=tinypng.com&size=180
+    url: https://tinypng.com/
+    description: TinyPNG知名图片压缩工具，可批量处理
+  - title: GIF编辑-soogif
+    logo: https://api2.misiai.com/favicon/v1?url=soogif.com&size=180
+    url: https://www.soogif.com/gifTool?utmId=9005
+    description: GIF编辑-soogif
+  - title: 压缩-智图
+    logo: https://api2.misiai.com/favicon/v1?url=zhitu.isux.us&size=180
+    url: https://zhitu.isux.us/
+    description: 图片智能选择合适的图片格式
+  - title: 去水印-Inpaint
+    logo: https://api2.misiai.com/favicon/v1?url=dugubest.com&size=180
+    url: http://www.dugubest.com/archives/506
+    description: 去水印-Inpaint非常简单的涂抹式，一键去水印软件
+  - title: 抠图-remove.bg
+    logo: https://api2.misiai.com/favicon/v1?url=remove.bg&size=180
+    url: https://www.remove.bg/zh
+    description: 抠图-remove.bg
+  - title: 抠图-稿定
+    logo: https://api2.misiai.com/favicon/v1?url=gaoding.com&size=180
+    url: https://www.gaoding.com/koutu
+    description: 稿定抠图是一款AI人工智能在线自动抠图工具
+  - title: 爱金果GIF编辑
+    logo: https://api2.misiai.com/favicon/v1?url=ijinguo.iqiyi.com&size=180
+    url: http://ijinguo.iqiyi.com/tools/#/
+    description: 在线图片GIF视频编辑工具爱奇艺中的小工具，在线图片GIF视频编辑
+  - title: GIF录制-ScreenToGif
+    logo: https://api2.misiai.com/favicon/v1?url=423down.com&size=180
+    url: https://www.423down.com/6670.html
+    description: GIF录制-ScreenToGif
+  - title: 拼字幕-有啦
+    logo: https://api2.misiai.com/favicon/v1?url=yoo.la&size=180
+    url: https://www.yoo.la/
+    description: 有啦拼字幕在线拼接电影字幕
+  - title: 截图+编辑-FastStone
+    logo: https://api2.misiai.com/favicon/v1?url=blog.sina.com.cn&size=180
+    url: http://blog.sina.com.cn/s/blog_89a729a40102wjwk.html
+    description: 截图+编辑-FastStone
+  - title: 截图+贴图-Snipaste
+    logo: https://api2.misiai.com/favicon/v1?url=zh.snipaste.com&size=180
+    url: https://zh.snipaste.com/
+    description: 截图 + 贴图，提高您的工作效率
+  - title: 白描-在线OCR识别
+    logo: https://api2.misiai.com/favicon/v1?url=web.baimiaoapp.com&size=180
+    url: https://web.baimiaoapp.com/
+    description: 白描-在线OCR识别白描app，ocr识别网页版
+  - title: PearOcr文字识别
+    logo: https://api2.misiai.com/favicon/v1?url=pearocr.com&size=180
+    url: https://pearocr.com/
+    description: 免费OCR
+  - title: 动效制作-犸良
+    logo: https://api2.misiai.com/favicon/v1?url=design.alipay.com&size=180
+    url: https://design.alipay.com/emotion
+    description: 动效制作-犸良支付宝设计团队出品的超好用动效制作平台
+  - title: Adobe系列_vposy
+    logo: https://api2.misiai.com/favicon/v1?url=weibo.com&size=180
+    url: https://weibo.com/vposy
+    description: adobe系列关注微博后，看置顶帖。专注Adobe系列，大师版/独立SP版，默认解压密码为：@vposy ，推号vposy_
+  - title: 在线PS
+    logo: https://api2.misiai.com/favicon/v1?url=photopea.com&size=180
+    url: https://www.photopea.com/
+    description: 在线ps
+  - title: 在线PS（国内版）
+    logo: https://api2.misiai.com/favicon/v1?url=ps.gaoding.com&size=180
+    url: https://ps.gaoding.com/#/
+    description: 在线PS（国内版）
+  - title: Adobe Photoshop Express
+    logo: https://api2.misiai.com/favicon/v1?url=photoshop.adobe.com&size=180
+    url: https://photoshop.adobe.com/
+    description: adobe在线处理图片
+  - title: 样机图-smartmockups
+    logo: https://api2.misiai.com/favicon/v1?url=smartmockups.com&size=180
+    url: https://smartmockups.com/category
+    description: 样机图-smartmockups场景很多，看效果很棒
+  - title: 样机图-cleanmock
+    logo: https://api2.misiai.com/favicon/v1?url=cleanmock.com&size=180
+    url: https://cleanmock.com/designer
+    description: 样机图-cleanmock
+  - title: 图床-PicGo
+    logo: https://api2.misiai.com/favicon/v1?url=molunerfinn.com&size=180
+    url: https://molunerfinn.com/PicGo/
+    description: 图床-PicGo
+  - title: AI画伯-AI Gahaku
+    logo: https://api2.misiai.com/favicon/v1?url=ai&size=180
+    url: https://ai-art.tokyo/en/#/
+    description: 做有个性的头像AI帮你把照片秒变油画，瞬间感觉很高级
+  - title: 放大-waifu2x.booru
+    logo: https://api2.misiai.com/favicon/v1?url=waifu2x.booru.pics&size=180
+    url: https://waifu2x.booru.pics/
+    description: 基于waifu2x的无损放大waifu2x官方：http://waifu2x.udp.jp/
+  - title: 放大-bigjpg
+    logo: https://api2.misiai.com/favicon/v1?url=bigjpg.com&size=180
+    url: https://bigjpg.com/zh
+    description: 人工智能无损放大使用开源waifu2x人工能深度卷积神经网络（CNN）智能无损免费放大图片
+  - title: 修复图像-PixFix
+    logo: https://api2.misiai.com/favicon/v1?url=zh.pixfix.com&size=180
+    url: https://zh.pixfix.com/
+    description: 图片修复-PixFix能够清理被噪声和过度JPEG压缩损坏的图像；以专有算法为基础，效果很好
+  - title: 图片上色-ColouriseSG
+    logo: https://api2.misiai.com/favicon/v1?url=colourise.sg&size=180
+    url: https://colourise.sg/
+    description: 图片上色-ColouriseSG
+  - title: 智能上色ImagetoImage
+    logo: https://api2.misiai.com/favicon/v1?url=affinelayer.com&size=180
+    url: https://affinelayer.com/pixsrv/index.html
+    description: 人工智能上色，该网站学习了成千上万种图片，可以给各种素描图自动填充颜色人工智能上色，该网站学习了成千上万种图片，可以给各种素描图自动填充颜色
+  - title: 压缩-TinyPNG
+    logo: https://api2.misiai.com/favicon/v1?url=tinypng.com&size=180
+    url: https://tinypng.com/
+    description: TinyPNG知名图片压缩工具，可批量处理
+  - title: 压缩-智图
+    logo: https://api2.misiai.com/favicon/v1?url=zhitu.isux.us&size=180
+    url: https://zhitu.isux.us/
+    description: 图片智能选择合适的图片格式
+  - title: 去水印-Inpaint
+    logo: https://api2.misiai.com/favicon/v1?url=dugubest.com&size=180
+    url: http://www.dugubest.com/archives/506
+    description: 去水印-Inpaint非常简单的涂抹式，一键去水印软件
+  - title: 抠图-remove.bg
+    logo: https://api2.misiai.com/favicon/v1?url=remove.bg&size=180
+    url: https://www.remove.bg/zh
+    description: 抠图-remove.bg
+  - title: 抠图-稿定
+    logo: https://api2.misiai.com/favicon/v1?url=gaoding.com&size=180
+    url: https://www.gaoding.com/koutu
+    description: 稿定抠图是一款AI人工智能在线自动抠图工具
+  - title: GIF编辑-soogif
+    logo: https://api2.misiai.com/favicon/v1?url=soogif.com&size=180
+    url: https://www.soogif.com/gifTool?utmId=9005
+    description: GIF编辑-soogif
+  - title: 爱金果GIF编辑
+    logo: https://api2.misiai.com/favicon/v1?url=ijinguo.iqiyi.com&size=180
+    url: http://ijinguo.iqiyi.com/tools/#/
+    description: 在线图片GIF视频编辑工具爱奇艺中的小工具，在线图片GIF视频编辑
+  - title: GIF录制-ScreenToGif
+    logo: https://api2.misiai.com/favicon/v1?url=423down.com&size=180
+    url: https://www.423down.com/6670.html
+    description: GIF录制-ScreenToGif
+  - title: 拼字幕-有啦
+    logo: https://api2.misiai.com/favicon/v1?url=yoo.la&size=180
+    url: https://www.yoo.la/
+    description: 有啦拼字幕在线拼接电影字幕
+  - title: 截图+编辑-FastStone
+    logo: https://api2.misiai.com/favicon/v1?url=blog.sina.com.cn&size=180
+    url: http://blog.sina.com.cn/s/blog_89a729a40102wjwk.html
+    description: 截图+编辑-FastStone
+  - title: 截图+贴图-Snipaste
+    logo: https://api2.misiai.com/favicon/v1?url=zh.snipaste.com&size=180
+    url: https://zh.snipaste.com/
+    description: 截图 + 贴图，提高您的工作效率
+  - title: 白描-在线OCR识别
+    logo: https://api2.misiai.com/favicon/v1?url=web.baimiaoapp.com&size=180
+    url: https://web.baimiaoapp.com/
+    description: 白描-在线OCR识别白描app，ocr识别网页版
+  - title: PearOcr文字识别
+    logo: https://api2.misiai.com/favicon/v1?url=pearocr.com&size=180
+    url: https://pearocr.com/
+    description: 免费OCR
 - taxonomy: PDF工具
   icon: fa-file-pdf-o
   nickname: pdf_tool
-
+  links:
+  - title: PDF.io
+    logo: https://api2.misiai.com/favicon/v1?url=pdf.io&size=180
+    url: https://pdf.io/
+    description: PDF.io好用的pdf处理工具
+  - title: 福昕PDF绿色版
+    logo: https://api2.misiai.com/favicon/v1?url=423down.com&size=180
+    url: https://www.423down.com/7973.html
+    description: 福昕PDF绿色版
+  - title: Smallpdf
+    logo: https://api2.misiai.com/favicon/v1?url=smallpdf.com&size=180
+    url: https://smallpdf.com/cn/pdf-tools
+    description: 让您轻松转换和编辑PDF文件每天两次免费
+  - title: PDF派
+    logo: https://api2.misiai.com/favicon/v1?url=pdfpai.com&size=180
+    url: https://www.pdfpai.com/
+    description: PDF派
+  - title: iLovePDF
+    logo: https://api2.misiai.com/favicon/v1?url=ilovepdf.com&size=180
+    url: https://www.ilovepdf.com/zh-cn
+    description: iLovePDF
+  - title: LightPdf
+    logo: https://api2.misiai.com/favicon/v1?url=lightpdf.com&size=180
+    url: https://lightpdf.com/zh/
+    description: LightPdf
+  - title: 迅捷PDF转换器
+    logo: https://api2.misiai.com/favicon/v1?url=app.xunjiepdf.com&size=180
+    url: https://app.xunjiepdf.com/
+    description: 迅捷PDF转换器
+  - title: CleverPDF
+    logo: https://api2.misiai.com/favicon/v1?url=cleverpdf.com&size=180
+    url: https://www.cleverpdf.com/cn
+    description: CleverPDF
+  - title: PDFCandy
+    logo: https://api2.misiai.com/favicon/v1?url=pdfcandy.com&size=180
+    url: https://pdfcandy.com/cn/
+    description: PDFCandy
+  - title: 网页转PDF
+    logo: https://api2.misiai.com/favicon/v1?url=pdfmyurl.com&size=180
+    url: http://pdfmyurl.com/
+    description: 网页转PDF
 - taxonomy: 区块链
   icon: fa-chain-broken
   nickname: block_chain
+  links:
+  - title: 币安
+    logo: https://api2.misiai.com/favicon/v1?url=accounts.binancezh.io&size=180
+    url: https://accounts.binancezh.io/zh-CN/register?ref=11756982
+    description: 全球最大的数字货币交易平台全球最大的数字货币交易平台
+  - title: 火币
+    logo: https://api2.misiai.com/favicon/v1?url=huobi.li&size=180
+    url: https://www.huobi.li/zh-cn/topic/invited/?invite_code=i69t8
+    description: 比特币交易所头部比特币交易所
+  - title: Coingecko
+    logo: https://api2.misiai.com/favicon/v1?url=coingecko.com&size=180
+    url: https://www.coingecko.com/
+    description: 加密货币价格与市值加密货币价格与市值
+  - title: CoinMarketCap
+    logo: https://api2.misiai.com/favicon/v1?url=coinmarketcap.com&size=180
+    url: https://coinmarketcap.com/
+    description: 数字货币行情_最新加密货币价格走势_虚拟货币价格排行榜_加密货币市值数字货币行情_最新加密货币价格走势_虚拟货币价格排行榜_加密货币市值
+  - title: 非小号
+    logo: https://api2.misiai.com/favicon/v1?url=feixiaohao.com&size=180
+    url: https://www.feixiaohao.com/
+    description: 全球数字货币交易所排行榜全球数字货币交易所排行榜
+  - title: 比特币
+    logo: https://api2.misiai.com/favicon/v1?url=bitcoin.org&size=180
+    url: https://bitcoin.org/zh_CN/
+    description: 比特币BTC bitcoin
+  - title: 以太坊
+    logo: https://api2.misiai.com/favicon/v1?url=ethereum.org&size=180
+    url: https://ethereum.org/zh/
+    description: 以太坊ETH ethereum以太坊ETH ethereum
+  - title: Libra
+    logo: https://api2.misiai.com/favicon/v1?url=diem.com&size=180
+    url: https://www.diem.com/en-us/
+    description: Facebook新推出的虚拟加密货币Facebook新推出的虚拟加密货币
+  - title: 波卡DOT
+    logo: https://api2.misiai.com/favicon/v1?url=polkadot.network&size=180
+    url: https://polkadot.network/
+    description: 一个为跨链交流所建立的分片网络一个为跨链交流所建立的分片网络
+  - title: Messari
+    logo: https://api2.misiai.com/favicon/v1?url=messari.io&size=180
+    url: https://messari.io/
+    description: 数据分析工具，促进加密社区的透明度，更明智地决策。数据分析工具，促进加密社区的透明度，更明智地决策。
+  - title: 比特大陆
+    logo: https://api2.misiai.com/favicon/v1?url=bitmain.com&size=180
+    url: https://www.bitmain.com/
+    description: 自主研发与生产比特币挖矿芯片的矿机制造商，世界第一的消费级 16nm ASIC 矿机生产商自主研发与生产比特币挖矿芯片的矿机制造商，世界第一的消费级
+      16nm ASIC 矿机生产商
+  - title: CryptoQuant
+    logo: https://api2.misiai.com/favicon/v1?url=cryptoquant.com&size=180
+    url: https://cryptoquant.com/overview/btc-exchange-flows
+    description: CryptoQuant 利用机器学习为机构投资者提供全面的链上数据分析，以评估加密货币，并发现可行的交易信号。CryptoQuant
+      利用机器学习为机构投资者提供全面的链上数据分析，以评估加密货币，并发现可行的交易信号。
+  - title: BLOCKCHAIN
+    logo: https://api2.misiai.com/favicon/v1?url=blockchain.com&size=180
+    url: https://www.blockchain.com/explorer
+    description: 最经典的比特币浏览器，可提供区块、挖矿、网络和钱包活动等统计数据。最经典的比特币浏览器，可提供区块、挖矿、网络和钱包活动等统计数据。
+  - title: 巴比特
+    logo: https://api2.misiai.com/favicon/v1?url=8btc.com&size=180
+    url: https://www.8btc.com/
+    description: 国内最早的比特币论坛和资讯网站。国内最早的比特币论坛和资讯网站。
+  - title: 金色财金
+    logo: https://api2.misiai.com/favicon/v1?url=jinse.com&size=180
+    url: https://www.jinse.com/
+    description: 国内的区块链行业媒体平台。国内的区块链行业媒体平台。
+  - title: Uniswap
+    logo: https://api2.misiai.com/favicon/v1?url=uniswap.org&size=180
+    url: https://uniswap.org/
+    description: 简单的无代币交换协议。主流DEX平台。简单的无代币交换协议。主流DEX平台。
+  - title: SushiSwap
+    logo: https://api2.misiai.com/favicon/v1?url=sushi.com&size=180
+    url: https://sushi.com/
+    description: Uniswap 分叉项目。Uniswap 分叉项目。
+  - title: 币世界
+    logo: https://api2.misiai.com/favicon/v1?url=bishijie.com&size=180
+    url: https://bishijie.com/
+    description: 比特币深度分析_区块链策略解析比特币深度分析_区块链策略解析
+  - title: AICoin
+    logo: https://api2.misiai.com/favicon/v1?url=aicoin.cn&size=180
+    url: https://www.aicoin.cn/
+    description: 比较好用的数字货币分析工具比较好用的数字货币分析工具
